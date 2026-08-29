@@ -129,3 +129,26 @@ de engajamento (pausa de saúde mental, respeito) · cartão ENEM "28/10"
 4. Stories interativos: roteiro por dia no kit (o sticker é manual no app).
 5. Re-render dos decks antigos com o logo tile.
 6. Copiar tudo para ~/peakscore-social-kit, commit, Eduardo dá push.
+
+
+---
+
+# SÉRIE POR TRÁS DO TREINO · estado em 29/8
+
+**Agendados em setembro:**
+- 31/8 seg · ep 1 · a volta do Alcaraz (ele estreia neste dia)
+- 9/9 qua · ep 3 · Sinner disse não, e o taper tem número
+- 17/9 qui · ep 4 · dez mil horas é meio mito (Gauff consertou UM erro)
+
+**Estoque pronto para outubro** (arte renderizada, legenda a escrever):
+- ep 2 · Djokovic aos 39 e a prática espaçada
+- ep 5 · Sabalenka mede o sono
+- ep 6 · a academia do Fonseca tem sala de estudo
+  Na legenda deste, incluir o que saiu da arte por falta de espaço:
+  a Rayssa Leal se formou no ensino médio em 2025 conciliando o circuito
+  mundial de skate, e foi oradora da turma.
+
+**Regras da série, já aplicadas:** nome de atleta é texto editorial; foto
+sempre de banco sem rosto e sem logo; nunca citar volume diário de treino do
+Fonseca (não existe número publicado); rotina do Sinner sempre atribuída
+("segundo reportagens"); a pausa da Bia Haddad está fora de pauta.

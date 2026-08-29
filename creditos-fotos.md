@@ -22,6 +22,12 @@ fica mesmo assim, porque custa nada e prova a procedência se alguém perguntar.
 | `art/canetas.jpg` | post de 5/9 | [pexels 6192519](https://www.pexels.com/photo/sticky-notes-and-school-supplies-6192519/) | KATRIN BOLOVTSOVA |
 | `art/post-its.jpg` | post de 12/9 | [pexels 1629212](https://www.pexels.com/photo/sticky-note-lot-1629212/) | Min An |
 | `art/quarto-anoitecer.jpg` | post de 13/9 | [pexels 14526240](https://www.pexels.com/photo/window-in-a-dark-room-14526240/) | ver página da foto |
+| `art/raquete-banco.jpg` | série Por trás do treino 01 (31/8) | [pexels 8224722](https://www.pexels.com/photo/tennis-rackets-on-the-floor-8224722/) | RDNE Stock project |
+| `art/arquibancada-vazia.jpg` | série Por trás do treino 02 | [pexels 17131060](https://www.pexels.com/photo/rows-of-empty-plastic-seats-at-a-stadium-17131060/) | Ayşenaz Bilgin |
+| `art/quadra-vazia.jpg` | série Por trás do treino 03 (9/9) | [pexels 19872965](https://www.pexels.com/photo/empty-tennis-court-19872965/) | Ellie Burgin |
+| `art/bolas-tenis.jpg` | série Por trás do treino 04 (17/9) | [pexels 5739230](https://www.pexels.com/photo/a-close-up-shot-of-tennis-balls-5739230/) | cottonbro studio |
+| `art/tenis-vestiario.jpg` | série Por trás do treino 05 | [pexels 3875515](https://www.pexels.com/photo/sneakers-under-a-wooden-bench-3875515/) | Polina Tankilevitch |
+| `art/mochila-quadra.jpg` | série Por trás do treino 06 | [pexels 8249067](https://www.pexels.com/photo/backpack-on-brown-wooden-bench-8249067/) | Julia Filirovska |
 
 `art/school-books.jpg`, `art/school-hero.jpg`, `art/atmosphere.jpg` e
 `art/ribbon.jpg` já estavam no repo antes desta rodada.
@@ -142,3 +148,23 @@ Narração GERADA POR IA (Higgsfield seed_audio, voz preset "Livia", 7 falas,
 intérprete envolvido; uso comercial coberto pelos termos da plataforma. Se
 alguém perguntar, a resposta é sim, é voz sintética. Trilha musical continua
 sendo escolhida no catálogo do Instagram na hora de postar, NUNCA por fora.
+
+
+### Série Por trás do treino · por que cada foto foi escolhida
+
+As seis foram inspecionadas uma a uma antes de entrar: sem rosto, sem logo,
+sem placa de patrocínio, sem frame de transmissão. Três candidatas foram
+REJEITADAS na inspeção e ficam registradas para ninguém readicionar:
+pexels 34015717 (marca Wilson legível), 33113155 (logo New Balance e pernas
+de uma pessoa), 13498100 (placa "I WILL" e letreiro na parede).
+
+Nome de atleta aparece como TEXTO editorial (fato público, uso nominativo).
+Rosto de atleta é proibido por dois motivos somados: direito autoral da
+agência que fez a foto E direito de imagem do próprio atleta, que no Brasil
+dispensa prova de prejuízo quando o uso é comercial (Código Civil art. 20 e
+Súmula 403 do STJ). Frame de transmissão soma ainda o direito de arena
+(Lei Pelé art. 42).
+
+Armadilha técnica registrada: o padrão `pexels-photo-<ID>.jpeg` NÃO é
+universal, alguns originais são PNG e o .jpeg dá 404. E www.pexels.com
+bloqueia curl (Cloudflare), enquanto images.pexels.com serve normalmente.
