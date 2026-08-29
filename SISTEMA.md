@@ -16,13 +16,23 @@ curso. Sem ação no produto, trend é alcance que evapora.
 **A fórmula de toda peça, sem exceção:**
 
 ```
-1. GANCHO      o fato de hoje que o aluno já está comentando
-2. TENSÃO      a dor real que aquilo revela na vida escolar dele
+1. MANCHETE    a VERDADE DO ALUNO, na segunda pessoa. Nunca a notícia.
+2. PROVA       o fato externo com número e fonte, que sustenta a manchete
 3. ENGRENAGEM  a peça do PeakScore que resolve, POR NOME
 4. AÇÃO        uma coisa para fazer hoje (comentar, salvar, abrir, mandar)
 ```
 
-Se a peça não tem passo 3, ela não é nossa: é portal de notícias.
+**A ORDEM É A REGRA, e ela custou uma versão inteira para ser aprendida.**
+A primeira leva da série tinha manchete de notícia ("Quatro meses parado. E
+hoje ele volta defendendo o título") e o PeakScore no rodapé. Lia como
+portal de esporte com marca colada. Quem rola o feed lê o TÍTULO e decide
+ali: se o título fala do atleta, o post é sobre o atleta.
+
+Invertido, funciona: "Você não volta no ritmo de antes. Ninguém volta."
+O Alcaraz continua no post, mas como PROVA de uma verdade que já é do leitor.
+
+Teste rápido antes de aprovar qualquer peça: tape o corpo e leia só a
+manchete. Ela fala da vida de quem lê? Se falar de terceiro, reescreva.
 
 **As engrenagens que existem de verdade** (só estas podem ser citadas):
 plano de hoje · cronograma que se refaz sozinho quando algo muda ·

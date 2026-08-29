@@ -111,16 +111,16 @@ Faltam 70 dias para o ENEM e 69 para o SAT.`,
     // ── SÉRIE POR TRÁS DO TREINO · estreia ──────────────────────────
     { d: '2026-08-31', contexto: 'Alcaraz estreia no US Open depois de 4 meses parado',
       post: { dir: 'por-tras', n: 1, tipo: 'post único · série Por trás do treino',
-        titulo: 'Quatro meses parado. E hoje ele volta defendendo o título',
-        legenda: `Alcaraz machucou o punho em abril. Perdeu Roland Garros, perdeu Wimbledon, ficou quatro meses sem competir. Hoje ele estreia no US Open defendendo o título.
+        titulo: 'Você não volta no ritmo de antes. Ninguém volta',
+        legenda: `Você parou de estudar por duas semanas. Agora abre o caderno na segunda decidido a voltar no ritmo de antes, com três matérias e quatro horas. Na terça você já não abriu.
 
-E a parte interessante não é o talento. É como ele voltou: primeiro treinou com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou duplas, que é jogo de menos pressão. Só então entrou na chave principal.
+Não é falta de força de vontade. É que voltar direto no nível de antes não funciona para ninguém, nem para quem faz isso profissionalmente.
 
-Ele mesmo disse que a preparação não foi a ideal, e que precisou confiar na equipe.
+Alcaraz ficou quatro meses parado com uma lesão no punho. Hoje ele estreia no US Open defendendo o título. E a volta dele não começou no talento: treinou primeiro com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou duplas, que tem menos pressão. Só então entrou na chave principal.
 
-Recomeçar depois de parar não é pagar tudo de uma vez na segunda-feira. É voltar no nível certo e subir. Quem tenta voltar direto no ritmo de antes desiste na terça.
+Se o número 2 do mundo volta pelo degrau de baixo, você também pode.
 
-No PeakScore o plano da semana recomeça recalibrado: blocos curtos de revisão do que você já sabia, antes de matéria nova. O nível 123 primeiro.
+No PeakScore o plano recomeça no seu nível de hoje: blocos curtos, revisão do que você já sabia, e só depois matéria nova. O degrau de baixo primeiro.
 
 Faltam 69 dias para o ENEM e 68 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>VOLTA</b> que eu te mando o link no direct',
@@ -231,10 +231,10 @@ A gente volta amanhã com a semana.`,
 
     { d: '2026-09-08',
       post: { dir: 'setembro-unicos', n: 1, tipo: 'post único · cor cheia',
-        titulo: 'A Champions começa hoje. Sua semana ganha um jogo fixo',
-        legenda: `A Champions começa hoje, e com ela um fato útil: Vini, Raphinha e Estêvão jogam terça e quarta até janeiro.
+        titulo: 'Você já sabe a hora do jogo. E a hora de estudar?',
+        legenda: `Você sabe exatamente que dia e que horas o seu time joga nos próximos quatro meses. Consegue dizer o mesmo do seu estudo?
 
-Semana com âncora fixa é mais fácil de montar. O jogo não muda de lugar, então o resto se encaixa em volta. Aula e prova funcionam igual: são o seu jogo fixo, e o estudo entra nos espaços que sobram de verdade, não nos que você imagina que existem.
+A Champions começa hoje, e com ela um fato útil: Vini, Raphinha e Estêvão jogam terça e quarta até janeiro. Semana com âncora fixa é mais fácil de montar. O jogo não muda de lugar, então o resto se encaixa em volta. Aula e prova funcionam igual: são o seu jogo fixo, e o estudo entra nos espaços que sobram de verdade, não nos que você imagina que existem.
 
 Faltam 61 dias para o ENEM e 60 para o SAT.`,
         cta: 'comenta <b>JOGO</b> que eu te mando o link no direct',
@@ -243,14 +243,14 @@ Faltam 61 dias para o ENEM e 60 para o SAT.`,
 
         { d: '2026-09-09', contexto: 'US Open em andamento · o descanso como estratégia',
       post: { dir: 'por-tras', n: 3, tipo: 'post único · série Por trás do treino',
-        titulo: 'O número 1 do mundo disse não ao US Open',
-        legenda: `Sinner se retirou do US Open por causa do joelho e remarcou a volta para outubro. É o primeiro Grand Slam que ele perde desde 2019, e ele é o número 1 do mundo, campeão de Wimbledon.
+        titulo: 'Parar na véspera não é preguiça. É estratégia',
+        legenda: `Na véspera da prova você abre matéria nova às onze da noite, porque parar parece preguiça. E aí chega na prova com sono e com um assunto que você viu uma vez só.
 
-Podia ter forçado. Não forçou.
+O contrário disso tem nome e tem número.
 
-E existe número para essa decisão: estudos com nadadores, ciclistas e corredores mostram que cortar de 41% a 60% do volume de treino nas duas semanas antes da competição, mantendo a intensidade, melhora o desempenho na hora que importa. Chama taper. A adaptação acontece no descanso, não no esforço.
+Sinner, número 1 do mundo e campeão de Wimbledon, se retirou do US Open por causa do joelho e remarcou a volta para outubro. Podia ter forçado. Não forçou. E estudos com nadadores, ciclistas e corredores mostram por quê: cortar de 41% a 60% do volume de treino nas duas semanas antes da competição, mantendo a intensidade, melhora o desempenho na hora que importa. Chama taper. A adaptação acontece no descanso, não no esforço.
 
-Traduzindo para a sua semana de prova: menos matéria nova, mais revisão do que você já viu, e dormir. Virada de véspera é o contrário exato do que o corpo de um atleta profissional faz antes de competir.
+Semana de prova é isso: menos matéria nova, mais revisão do que você já viu, e dormir.
 
 No PeakScore, quando a prova se aproxima, o plano enxuga o volume sozinho e prioriza revisão. Você não precisa ter a disciplina de parar: o cronograma já para por você.
 
@@ -321,8 +321,10 @@ Faltam 56 dias para o ENEM e 55 para o SAT.`,
 
     { d: '2026-09-14',
       post: { dir: 'setembro-unicos', n: 5, tipo: 'post único · campo escuro',
-        titulo: 'O reality é todo dia. A rotina também',
-        legenda: `Hoje às 22h30 estreia A Fazenda 18. E reality é assim: todo dia tem.
+        titulo: 'Você aguenta acompanhar todo dia. Só não acha que aguenta estudar',
+        legenda: `Você vai acompanhar um programa que passa TODOS os dias, por três meses, sem falhar um. E ainda acha que não tem constância.
+
+Hoje às 22h30 estreia A Fazenda 18. E reality é assim: todo dia tem.
 
 Rotina de estudo funciona igual. Não é o dia épico que decide, é a sequência. A regra da casa: todo dia tem programa, todo dia tem revisão.
 
@@ -364,8 +366,10 @@ Faltam 53 dias para o ENEM e 52 para o SAT.`,
 
         { d: '2026-09-17',
       post: { dir: 'por-tras', n: 4, tipo: 'post único · série Por trás do treino',
-        titulo: 'Dez mil horas é meio mito',
-        legenda: `Você já ouviu que são precisas 10 mil horas para ficar bom em alguma coisa. O estudo original, de 1993, com trinta violinistas, nunca disse isso.
+        titulo: 'Três horas estudando não são três horas melhorando',
+        legenda: `Você senta três horas, relê a matéria que já entende, e levanta com a sensação de ter estudado. Na prova cai justo aquilo que você pulou porque dava trabalho.
+
+Você já ouviu que são precisas 10 mil horas para ficar bom em alguma coisa. O estudo original, de 1993, com trinta violinistas, nunca disse isso.
 
 O que separava os melhores não era o total de horas. Era o TIPO de prática: com alvo específico, com correção, refazendo o pedaço ruim. E as 10 mil eram uma média, não um limiar. O próprio autor chamou o número de arbitrário depois que ele virou regra popular.
 
@@ -384,8 +388,8 @@ Faltam 52 dias para o ENEM e 51 para o SAT de 7 de novembro.`,
 
     { d: '2026-09-18', contexto: 'Último dia de inscrição do SAT de 3 de outubro',
       post: { dir: 'trending', n: 1, tipo: 'post único · cor cheia · serviço',
-        titulo: 'Hoje é dia triplo',
-        legenda: `Hoje três coisas acontecem ao mesmo tempo.
+        titulo: 'Três prazos hoje. Só um não tem segunda chance',
+        legenda: `Hoje você vai lembrar de dois e esquecer o terceiro. E o esquecido é justamente o único que não volta.
 
 Fecha a inscrição do SAT de 3 de outubro. Abre o early access do FC 27, pra quem pagou a edição cara. E o Fonseca estreia na Copa Davis, jogando em casa, no Rio.
 
@@ -566,7 +570,9 @@ O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39
     { d: '2026-09-30', contexto: 'Fecha setembro e abre a contagem diária de outubro',
       post: { dir: 'trending', n: 2, tipo: 'post único · campo escuro · marco',
         titulo: 'Quatro dias entre o ENEM e o GTA VI',
-        legenda: `O ENEM acaba dia 15 de novembro. Dia 19, saem NO MESMO DIA o GTA VI e o novo Jogos Vorazes, Amanhecer na Colheita.
+        legenda: `A sua recompensa já tem data marcada. E ela é quatro dias depois da última prova.
+
+O ENEM acaba dia 15 de novembro. Dia 19, saem NO MESMO DIA o GTA VI e o novo Jogos Vorazes, Amanhecer na Colheita.
 
 Quatro dias entre a prova e isso tudo.
 
