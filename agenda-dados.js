@@ -108,6 +108,25 @@ Faltam 70 dias para o ENEM e 69 para o SAT.`,
         { dir: 'domingo-servico', n: 3, o: 'US Open · 0 brasileiros', faz: 'Tarde. Quiz sticker opcional: "desde que ano o Brasil não fica de fora?" (2018).' },
         { dir: 'domingo-servico', n: 4, o: 'GTA VI · 26min', faz: 'Noite. Countdown sticker opcional para 19/11.' } ] },
 
+    // ── SÉRIE POR TRÁS DO TREINO · estreia ──────────────────────────
+    { d: '2026-08-31', contexto: 'Alcaraz estreia no US Open depois de 4 meses parado',
+      post: { dir: 'por-tras', n: 1, tipo: 'post único · série Por trás do treino',
+        titulo: 'Quatro meses parado. E hoje ele volta defendendo o título',
+        legenda: `Alcaraz machucou o punho em abril. Perdeu Roland Garros, perdeu Wimbledon, ficou quatro meses sem competir. Hoje ele estreia no US Open defendendo o título.
+
+E a parte interessante não é o talento. É como ele voltou: primeiro treinou com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou duplas, que é jogo de menos pressão. Só então entrou na chave principal.
+
+Ele mesmo disse que a preparação não foi a ideal, e que precisou confiar na equipe.
+
+Recomeçar depois de parar não é pagar tudo de uma vez na segunda-feira. É voltar no nível certo e subir. Quem tenta voltar direto no ritmo de antes desiste na terça.
+
+No PeakScore o plano da semana recomeça recalibrado: blocos curtos de revisão do que você já sabia, antes de matéria nova. O nível 123 primeiro.
+
+Faltam 69 dias para o ENEM e 68 para o SAT de 7 de novembro.`,
+        cta: 'comenta <b>VOLTA</b> que eu te mando o link no direct',
+        tags: '#usopen #rotinadeestudos #enem2026 #vestibular',
+        nota: 'Estreia da série. Alcaraz por NOME (fato público esportivo); a foto é de banco, sem rosto, sem logo, sem frame de transmissão. Fontes: CNN Brasil, Puntodebreak, Metrópoles, Brasil Tênis, checadas 29/8. A chave principal do US Open começa 30/8 e ele estreia 31/8.' } },
+
     { d: '2026-09-01',
       post: { dir: 'setembro-01-carrossel', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: 'Sua vida escolar mora em cinco lugares',
@@ -222,18 +241,23 @@ Faltam 61 dias para o ENEM e 60 para o SAT.`,
         tags: '#championsleague #rotinadeestudos #enem2026 #vidadeestudante',
         nota: 'Champions, Vini, Raphinha e Estêvão por NOME (uso nominativo), sem escudo, sem foto de jogo (direito de arena). Rodada 1 em 8-10/9, UEFA, checado 29/8. A triagem do Hippo sai do mês.' } },
 
-    { d: '2026-09-09',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 4, gancho: 4, clip: 'calendario',
-        tipo: 'Reel POV · 12s',
-        titulo: 'Cinco apps, uma planilha',
-        legenda: `Cinco apps, uma planilha, e ainda esqueci a redação.
+        { d: '2026-09-09', contexto: 'US Open em andamento · o descanso como estratégia',
+      post: { dir: 'por-tras', n: 3, tipo: 'post único · série Por trás do treino',
+        titulo: 'O número 1 do mundo disse não ao US Open',
+        legenda: `Sinner se retirou do US Open por causa do joelho e remarcou a volta para outubro. É o primeiro Grand Slam que ele perde desde 2019, e ele é o número 1 do mundo, campeão de Wimbledon.
 
-O problema nunca foi organização. É que ninguém devia precisar de cinco lugares para saber o que fazer na terça.
+Podia ter forçado. Não forçou.
+
+E existe número para essa decisão: estudos com nadadores, ciclistas e corredores mostram que cortar de 41% a 60% do volume de treino nas duas semanas antes da competição, mantendo a intensidade, melhora o desempenho na hora que importa. Chama taper. A adaptação acontece no descanso, não no esforço.
+
+Traduzindo para a sua semana de prova: menos matéria nova, mais revisão do que você já viu, e dormir. Virada de véspera é o contrário exato do que o corpo de um atleta profissional faz antes de competir.
+
+No PeakScore, quando a prova se aproxima, o plano enxuga o volume sozinho e prioriza revisão. Você não precisa ter a disciplina de parar: o cronograma já para por você.
 
 Faltam 60 dias para o ENEM e 59 para o SAT de 7 de novembro.`,
-        cta: 'comenta <b>UM LUGAR</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #organizacao #vestibular #vidadeestudante',
-        nota: 'É o ângulo do melhor post do ano. Footage pronto: calendario.mp4. Falta o corte rápido entre apps no seu celular.' },
+        cta: 'comenta <b>DESCANSO</b> que eu te mando o link no direct',
+        tags: '#usopen #rotinadeestudos #enem2026 #comoestudar',
+        nota: 'Substituiu "Cinco apps, uma planilha", que repetia o ângulo do carrossel de 1/9. Sinner por NOME; foto de banco sem rosto e sem logo. Fontes: ESPN e usopen.org (retirada, 21/8); Bosquet 2007 e revisão PLOS One 2023 (taper). Checado 29/8.' },
       tarefas: ['Bastidor de quarta.'] },
 
     { d: '2026-09-10', contexto: 'Dia Mundial de Prevenção do Suicídio · Setembro Amarelo',
@@ -302,6 +326,8 @@ Faltam 56 dias para o ENEM e 55 para o SAT.`,
 
 Rotina de estudo funciona igual. Não é o dia épico que decide, é a sequência. A regra da casa: todo dia tem programa, todo dia tem revisão.
 
+É por isso que o PeakScore abre no plano de HOJE: um dia decidido por vez, todo dia. Reality não pula capítulo, rotina também não.
+
 Faltam 55 dias para o ENEM e 54 para o SAT.`,
         cta: 'comenta <b>ROTINA</b> que eu te mando o link no direct',
         tags: '#afazenda #rotinadeestudos #enem2026 #vidadeestudante',
@@ -336,21 +362,25 @@ Faltam 53 dias para o ENEM e 52 para o SAT.`,
         nota: 'O changelog que funciona: vira história, não anúncio de recurso. Precisa de um pedido real de aluno, com permissão de mostrar o print.' },
       tarefas: ['Bastidor de quarta.'] },
 
-    { d: '2026-09-17',
-      post: { dir: 'setembro-unicos', n: 6, tipo: 'post único · colagem', bloqueado: true,
-        titulo: 'Três alunos, três semanas',
-        legenda: `Três alunos, três rotinas completamente diferentes, a mesma reclamação.
+        { d: '2026-09-17',
+      post: { dir: 'por-tras', n: 4, tipo: 'post único · série Por trás do treino',
+        titulo: 'Dez mil horas é meio mito',
+        legenda: `Você já ouviu que são precisas 10 mil horas para ficar bom em alguma coisa. O estudo original, de 1993, com trinta violinistas, nunca disse isso.
 
-[nome], [ano]: [uma frase dele]
-[nome], [ano]: [uma frase dela]
-[nome], [ano]: [uma frase]
+O que separava os melhores não era o total de horas. Era o TIPO de prática: com alvo específico, com correção, refazendo o pedaço ruim. E as 10 mil eram uma média, não um limiar. O próprio autor chamou o número de arbitrário depois que ele virou regra popular.
 
-Nenhum dos três queria mais um app. Os três queriam parar de ser o servidor central da própria semana.
+Exemplo vivo desta semana: Coco Gauff estava dando dupla falta demais. Contratou um treinador só para o saque e atacou aquele erro. Caiu de 9,8 para 5,3 duplas faltas por jogo.
 
-Faltam 52 dias para o ENEM e 51 para o SAT.`,
-        cta: 'comenta <b>SEMANA</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #vidadeestudante #vestibular #estudos',
-        nota: 'BLOQUEADO: depende de três alunos beta com autorização de nome e ano. O terceiro slot está listrado de propósito. Foto de banco aqui fabricaria prova social.' } },
+Não foi mais tempo em quadra. Foi mirar o erro.
+
+Três horas estudando não são três horas melhorando. Reler a matéria que você já sabe é conforto, não treino. O que muda o jogo é escolher o erro da semana e ir nele.
+
+No PeakScore o plano do dia pergunta o que você vai melhorar, não só quanto tempo vai sentar. É a diferença entre cumprir horário e ficar melhor.
+
+Faltam 52 dias para o ENEM e 51 para o SAT de 7 de novembro.`,
+        cta: 'comenta <b>ERRO</b> que eu te mando o link no direct',
+        tags: '#comoestudar #rotinadeestudos #enem2026 #vestibular',
+        nota: 'Substituiu a colagem "Três alunos, três semanas", que segue BLOQUEADA até existirem fotos de alunos reais com autorização de nome, ano e responsável. Fontes: Ericsson 1993 e o texto do próprio Ericsson no Salon sobre a má leitura; Royal Society Open Science (replicação); Tennishead e NBC (números da Gauff). Checado 29/8.' } },
 
     { d: '2026-09-18', contexto: 'Último dia de inscrição do SAT de 3 de outubro',
       post: { dir: 'trending', n: 1, tipo: 'post único · cor cheia · serviço',
@@ -362,6 +392,8 @@ Fecha a inscrição do SAT de 3 de outubro. Abre o early access do FC 27, pra qu
 Só uma das três não tem segunda chance. Se você ia fazer o SAT de outubro, não deixa hoje passar: a próxima data é 7 de novembro, sábado, VÉSPERA do ENEM. Quem faz os dois faz em dias seguidos.
 
 O FC e o jogo do Fonseca têm replay. O prazo não.
+
+É exatamente o tipo de coisa que o PeakScore não deixa passar: prazo entra no cronograma e a semana se refaz em volta dele, sozinha.
 
 Faltam 51 dias para o ENEM e 50 para o SAT de novembro.`,
         cta: 'comenta <b>SAT</b> que eu te mando o calendário completo no direct',
@@ -492,7 +524,7 @@ Faltam 43 dias para o ENEM e 42 para o SAT.`,
 
 Semanas 1 e 2: comece pelo que você mais erra, não pelo que você mais gosta. Semanas 3 e 4: um simulado inteiro, no horário da prova, 13h30, sem pausa extra. Semanas 5 e 6: só o que você já errou, com espaço entre as voltas.
 
-E dois blocos ficam vazios de propósito. Semana cheia é semana que quebra na primeira mudança.
+E dois blocos ficam vazios de propósito. Semana cheia é semana que quebra na primeira mudança, e é assim que o PeakScore monta a sua: com folga de verdade, porque a semana real muda.
 
 Hoje, aliás, é a prova disso: tem gente que hoje sai da prova do ITA e ainda vê o segundo tempo de Ravens x Cowboys no Maracanã. Mesma pessoa, mesmo domingo. Planejou.
 
@@ -524,6 +556,8 @@ Faltam 41 dias para o ENEM e 40 para o SAT.`,
 
 E tudo bem, porque a prova é uma vez e o replay existe.
 
+Quem chega nesse domingo com as semanas montadas assiste ao replay em paz. É para isso que o cronograma do PeakScore existe: para novembro ser só executar.
+
 O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39 para o SAT.`,
         cta: 'marca quem já tinha percebido que era no mesmo dia',
         tags: '#enem2026 #f1 #vestibular #rotinadeestudos',
@@ -537,6 +571,8 @@ O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39
 Quatro dias entre a prova e isso tudo.
 
 Não é motivação de cartaz, é calendário: existe uma data em que isso termina, e ela está a quatro dias da fila de coisas que meio mundo espera há anos.
+
+Monta no PeakScore o caminho de trás pra frente: da prova até hoje, semana a semana. O jogo e o filme viram a linha de chegada do cronograma, não a distração dele.
 
 Outubro é a reta final. Faltam 39 dias para o primeiro dia do ENEM e 38 para o SAT.`,
         cta: 'marca quem vai sumir no dia 19',
