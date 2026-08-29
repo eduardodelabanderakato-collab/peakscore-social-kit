@@ -144,3 +144,73 @@ Fuvest aberta o mês todo (fecha 9/10, R$ 228).
   Rolling Stone + Ingresso). Escrever sempre "no Brasil". CONFIRMADO.
 - US Open: chave principal começa DOMINGO 30/8; zero brasileiros na simples,
   1ª vez desde 2018 (olympics.com + No Ataque). CONFIRMADO.
+
+
+## GROWTH LOOPS (pesquisa 29/8, 23 buscas, fontes no relatório do agente)
+
+**Os 5 loops ranqueados para o PeakScore (esforço x impacto):**
+1. **Cartão de contagem regressiva de prova** (baixo esforço, lançar 1º):
+   marcos 30/7/3/1 dia da prova viram cartão 9:16 compartilhável. Dados já
+   existem no app. Sem nome/escola por padrão.
+2. **Wrapped do bimestre** (médio, impacto alto): o report card de fim de
+   período que o app JÁ GERA vira slides + cartão. #SemesterWrapped é trend
+   orgânica (alunos fazem na mão) e Canvas Wrapped prova que dado de
+   organização basta. GRÁTIS SEMPRE (lição Strava: paywall no recap = revolta).
+   Nota NUNCA no cartão público (LGPD art. 14, melhor interesse).
+3. **Convide sua turma** (alto esforço, o maior impacto, é o loop Saturn:
+   30%→80-90% de penetração por escola quando a turma entra). Convite por
+   link de WhatsApp com as 3 próximas provas. Trabalho de arquitetura.
+4. **Constância gentil** (semanas com plano cumprido; contagem SEMANAL,
+   congelamento grátis, nunca culpa; anti-Snapchat documentado).
+5. **Desbloqueio por escola** (modelo Gas/Superhuman honesto; grêmio
+   estudantil é canal formalizado e SEM concorrente documentado). Só depois do 3.
+
+**Fatos de apoio:** Duolingo: streak 7 dias = 2,4x retorno; Friend Streak
++22%. Wrapped: o cartão mostra O ALUNO, não a marca; 9:16 nativo. BeReal
+morreu de novidade sem iteração. DM por palavra-chave: manual até ~20-30
+comentários/dia, ManyChat só depois; benchmarks de fornecedor = teto, não
+média; DM fora de gatilho = bloqueio. Medição: UTM fixo (source/medium
+de lista fechada) + segunda-feira 30min + share_card como medium próprio.
+77% das escolas particulares BR usam plataforma (ABRASPE); Classroom já
+adotado em redes estaduais = o sync é o cavalo de troia honesto.
+#studygrambr 700 mil posts: os cartões são conteúdo nativo desse território.
+
+
+## COMO EDTECHS CRESCEM NO IG (pesquisa 29/8, 18 buscas + 5 artigos)
+
+**Os números que mandam no desenho:**
+- Mosseri (jan/25, reiterado 2026): os 3 sinais que mais pesam são tempo de
+  exibição, likes/alcance e **ENVIOS/alcance**. Envio pesa mais para alcançar
+  quem NÃO te segue. No Brasil, 84% compartilham e 77% salvam (Opinion Box).
+  Traduzindo: desenhar cada post para o grupo da turma no WhatsApp.
+- Rival IQ 2025: **educação superior tem o MAIOR engajamento entre 14
+  setores** (2,10% no IG vs mediana geral 0,36%), postando MENOS que a média,
+  e no setor CARROSSEL bate REEL em engajamento.
+- CreatorsJet (10 mil posts): Reel alcança, carrossel engaja/salva.
+  Mix sugerido: 2 Reels + 1 carrossel + 1 imagem por semana.
+- **Desde 10/7/2025 o Google INDEXA posts públicos de conta profissional**:
+  legenda virou SEO. Escrever a frase que o aluno pesquisa.
+- Trial Reels (só não-seguidores): 40% de quem usa posta mais, 80% ganha
+  alcance novo. Agendável desde fev/2026. Teste barato para time pequeno.
+
+**Duolingo, as duas lições:**
+- Duo morto (11/2/2025): 1,7 BI de impressões, 160 mil UGC. **Mas a ponte foi
+  DENTRO DO APP**: ícone trocado + meta coletiva de XP; 50,9 bi de XP,
+  downloads +38%. Trend sem ação no produto evapora.
+- Backlash de IA (abr/25): apagaram tudo, perderam 400 mil seguidores.
+  **A persona é uma promessa que a empresa não pode desmentir.**
+- Squid Game: +40% de aprendizes de coreano, e a S2 virou VOCABULÁRIO NO CURSO.
+
+**Brasil:**
+- Débora Aladim (1,7M IG): domina o DIA do ENEM todo ano; análise da prova
+  com 2,3M de views em 24h. **Event-jacking > trend-jacking**: o calendário
+  do estudante é previsível, prepare o asset ANTES.
+- Descomplica no TikTok: professores REAIS surfando trend, pouco produzido.
+- Photomath: abandonou o feed próprio, vive de criadores (11 bi de impressões).
+- Notion: comunidade cria, a marca amplifica.
+- ManyChat: Brasil é o maior mercado fora dos EUA, 1 bi de conversas.
+  (Benchmarks de DM são de fornecedor: direção sim, magnitude não.)
+
+**Trend-jacking, a regra dos 3 fatores:** velocidade (janela de 24h),
+legitimidade no tema, e virar AÇÃO. Os fracassos clássicos usaram dor alheia
+como pano de fundo de venda.
