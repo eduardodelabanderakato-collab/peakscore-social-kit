@@ -101,7 +101,12 @@ Nenhum time ganha o campeonato numa rodada. Ganha somando ponto em outubro, em n
 Faltam 70 dias para o ENEM e 69 para o SAT.`,
         cta: 'marca quem só estuda na véspera',
         tags: '#rotinadeestudos #enem2026 #vestibular #estudos',
-        nota: 'SEM TIME. Metade do público torce para o outro, e um perfil de organização escolar não tem nada a ganhar escolhendo lado. Nenhum clube, posição ou rodada é citado.' } },
+        nota: 'SEM TIME. Metade do público torce para o outro, e um perfil de organização escolar não tem nada a ganhar escolhendo lado. Nenhum clube, posição ou rodada é citado. Bônus do dia: Fla x Botafogo E Corinthians x Santos às 16h, o post fala disso sem citar nenhum.' },
+      stories: [
+        { dir: 'domingo-servico', n: 1, o: 'Unicamp fecha AMANHÃ', faz: 'Primeiro story da manhã. Sem sticker por cima.' },
+        { dir: 'domingo-servico', n: 2, o: 'SAT 12/9 · late fecha terça', faz: 'Logo depois do primeiro.' },
+        { dir: 'domingo-servico', n: 3, o: 'US Open · 0 brasileiros', faz: 'Tarde. Quiz sticker opcional: "desde que ano o Brasil não fica de fora?" (2018).' },
+        { dir: 'domingo-servico', n: 4, o: 'GTA VI · 26min', faz: 'Noite. Countdown sticker opcional para 19/11.' } ] },
 
     { d: '2026-09-01',
       post: { dir: 'setembro-01-carrossel', cards: 7, tipo: 'carrossel · 7 cards',
@@ -126,7 +131,7 @@ Faltam 68 dias para o primeiro dia do ENEM e 67 para o SAT. A gente juntou tudo 
 
 Não é falta de organização. É que a informação estava em cinco lugares diferentes e nenhum deles te avisou.
 
-Faltam 67 dias para o ENEM e 66 para o SAT.`,
+Faltam 67 dias para o ENEM e 66 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>DOMINGO</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #enem2026 #vidadeestudante #vestibular',
         nota: 'Footage do app já capturado em português: reels/out/hoje.mp4. Falta montar com a cartela de gancho na frente. Sem narração.' },
@@ -171,7 +176,7 @@ Mas a gente entende. É a única parte da lista que dá pra terminar hoje, e ter
 O problema é que às vezes é a única coisa que a gente termina a semana inteira.
 
 Faltam 64 dias para o ENEM e 63 para o SAT.`,
-        cta: 'marca o amigo que tem seis marca-texto e nenhum resumo',
+        cta: 'marca o amigo que tem seis marca-textos e nenhum resumo',
         tags: '#rotinadeestudos #vidadeestudante #enem2026 #estudos',
         nota: 'A piada é sobre a situação e termina perdoando quem faz. A marca está do lado do aluno contra a semana, nunca do lado da semana contra o aluno. Pexels 6192519, KATRIN BOLOVTSOVA.' } },
 
@@ -183,7 +188,7 @@ Faltam 64 dias para o ENEM e 63 para o SAT.`,
 
 Videoaula, apostila, PDF no grupo, resumo de março. Material não falta pra ninguém. O que falta é a ordem: onde física cabe numa semana que já tem prova de história na quinta e treino na terça.
 
-Toda vez que você abre o caderno e pensa "por onde eu começo", o bloco já começou. E essa dúvida volta todo dia, porque nada ficou decidido.
+Toda vez que você abre o caderno e pensa "por onde eu começo", o tempo de estudo já começou a contar. E essa dúvida volta todo dia, porque nada ficou decidido.
 
 Faltam 63 dias para o primeiro dia do ENEM e 62 para o SAT. São nove semanas.`,
         cta: 'comenta <b>ORDEM</b> que eu te mando o link no direct',
@@ -198,7 +203,7 @@ Faltam 63 dias para o primeiro dia do ENEM e 62 para o SAT. São nove semanas.`,
         titulo: 'Hoje é feriado. Aproveita.',
         legenda: `Hoje é feriado. Aproveita.
 
-Sério, é isso. Sem "mas aproveita pra revisar", sem "quem estuda no feriado sai na frente". Você tem 62 dias pela frente e nenhum deles melhora porque hoje foi ruim.
+Sério, é isso. Sem "mas aproveita pra revisar", sem "quem estuda no feriado sai na frente". Você tem 62 dias pela frente e nenhum deles melhora se hoje for ruim.
 
 A gente volta amanhã com a semana.`,
         cta: 'marca quem precisa ler isso hoje',
@@ -207,15 +212,15 @@ A gente volta amanhã com a semana.`,
 
     { d: '2026-09-08',
       post: { dir: 'setembro-unicos', n: 1, tipo: 'post único · cor cheia',
-        titulo: 'O Hippo faz a triagem',
-        legenda: `Três entregas, um treino e uma prova na mesma semana. Alguém tem que decidir a ordem.
+        titulo: 'A Champions começa hoje. Sua semana ganha um jogo fixo',
+        legenda: `A Champions começa hoje, e com ela um fato útil: Vini, Raphinha e Estêvão jogam terça e quarta até janeiro.
 
-Se for você, na noite de domingo, com sono, a matéria mais fácil ganha sempre. Não é falta de disciplina: é que decidir cansa antes de estudar.
+Semana com âncora fixa é mais fácil de montar. O jogo não muda de lugar, então o resto se encaixa em volta. Aula e prova funcionam igual: são o seu jogo fixo, e o estudo entra nos espaços que sobram de verdade, não nos que você imagina que existem.
 
 Faltam 61 dias para o ENEM e 60 para o SAT.`,
-        cta: 'marca o amigo que sempre começa pela matéria que já sabe',
-        tags: '#rotinadeestudos #vidadeestudante #enem2026 #estudos',
-        nota: 'Humor. A piada é sobre a situação, nunca sobre o aluno e nunca sobre nota baixa.' } },
+        cta: 'comenta <b>JOGO</b> que eu te mando o link no direct',
+        tags: '#championsleague #rotinadeestudos #enem2026 #vidadeestudante',
+        nota: 'Champions, Vini, Raphinha e Estêvão por NOME (uso nominativo), sem escudo, sem foto de jogo (direito de arena). Rodada 1 em 8-10/9, UEFA, checado 29/8. A triagem do Hippo sai do mês.' } },
 
     { d: '2026-09-09',
       post: { reel: true, dir: 'setembro-reels-capas', n: 4, gancho: 4, clip: 'calendario',
@@ -225,25 +230,24 @@ Faltam 61 dias para o ENEM e 60 para o SAT.`,
 
 O problema nunca foi organização. É que ninguém devia precisar de cinco lugares para saber o que fazer na terça.
 
-Faltam 60 dias para o ENEM e 59 para o SAT.`,
+Faltam 60 dias para o ENEM e 59 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>UM LUGAR</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #organizacao #vestibular #vidadeestudante',
         nota: 'É o ângulo do melhor post do ano. Footage pronto: calendario.mp4. Falta o corte rápido entre apps no seu celular.' },
       tarefas: ['Bastidor de quarta.'] },
 
-    { d: '2026-09-10',
+    { d: '2026-09-10', contexto: 'Dia Mundial de Prevenção do Suicídio · Setembro Amarelo',
       post: { dir: 'setembro-unicos', n: 2, tipo: 'post único · documental',
         titulo: 'Planner de papel vs semana real',
         legenda: `O planner de papel funciona até a terça-feira.
 
 Aí a professora adianta a prova, o treino muda de horário, e a página que você caprichou no domingo vira ficção. Você não refaz. Ninguém refaz.
 
-O problema nunca foi o papel. É que a sua semana muda e o papel não.
-
-Faltam 59 dias para o ENEM e 58 para o SAT.`,
-        cta: 'comenta <b>SEMANA</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #organizacao #vestibular #estudos',
-        nota: 'A arte é só a foto: toda a copy vive na legenda. art/mao-caderno.jpg, Pexels 7129052, Michael Burrows.' } },
+O problema nunca foi o papel. É que a sua semana muda e o papel não.`,
+        cta: '',
+        tags: '#rotinadeestudos #organizacao #estudos',
+        nota: 'O story do Setembro Amarelo sobe DE MANHÃ, sozinho. Este post documental entra só à tarde, sem CTA de produto. Nenhum outro story comercial hoje. Arte: art/mao-caderno.jpg, Pexels 7129052, Michael Burrows.' },
+      stories: [{ dir: 'amarelo', n: 1, o: 'Setembro Amarelo · 188', faz: 'Sobe de manhã, sozinho, sem sticker e sem link. Tema CVV 2026: "Escutar é estar presente". Não responder comentários com marketing; se alguém desabafar, responder em DM com o 188 e indicar um adulto da escola.' }] },
 
     { d: '2026-09-11',
       post: { dir: 'momentos', n: 4, tipo: 'post único · foto e uma frase · em alta',
@@ -262,7 +266,7 @@ Faltam 58 dias para o ENEM e 57 para o SAT.`,
         nota: 'Pega a onda das listas de temas, que é o assunto do nicho agora. NÃO prevê tema: o post é sobre método. Os cinco temas vêm do noticiário de agosto de 2026, não de previsão nossa.' },
       stories: [{ dir: 'setembro-stories', n: 6, o: 'Hippo · 58 e 57 dias', faz: 'Ritual da sexta.' }] },
 
-    { d: '2026-09-12',
+    { d: '2026-09-12', contexto: 'Hoje é dia de SAT (12/9)',
       post: { dir: 'sabado', n: 2, tipo: 'post único · sábado é o dia da piada',
         titulo: 'Se você marcou tudo, você não marcou nada',
         legenda: `Se você marcou tudo, você não marcou nada.
@@ -281,7 +285,7 @@ Faltam 57 dias para o ENEM e 56 para o SAT.`,
         titulo: 'O domingo decide a semana',
         legenda: `Domingo à noite não é descanso. É quando você descobre o tamanho da semana.
 
-A prova de quinta que você tinha esquecido. A lista que fecha na terça. O treino que mudou de horário e ninguém avisou no grupo.
+A prova de quinta que você tinha esquecido. A lista que fecha na terça. O treino que mudou de horário no aviso que ninguém leu.
 
 Não dá pra tirar a segunda-feira do caminho. Dá pra chegar nela sabendo o que já está resolvido.
 
@@ -292,17 +296,16 @@ Faltam 56 dias para o ENEM e 55 para o SAT.`,
       stories: [{ dir: 'setembro-stories', n: 7, o: 'Caixinha', faz: 'As matérias que chegarem viram os blocos do carrossel de 20/9.' }] },
 
     { d: '2026-09-14',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 3, gancho: 3,
-        tipo: 'Reel micro-aula · 20s',
-        titulo: 'Repetição espaçada',
-        legenda: `Reler cinco vezes na véspera não é estudar cinco vezes.
+      post: { dir: 'setembro-unicos', n: 5, tipo: 'post único · campo escuro',
+        titulo: 'O reality é todo dia. A rotina também',
+        legenda: `Hoje às 22h30 estreia A Fazenda 18. E reality é assim: todo dia tem.
 
-A curva do esquecimento não liga para esforço, ela liga para intervalo. Três voltas espaçadas na mesma matéria valem mais que uma maratona de domingo.
+Rotina de estudo funciona igual. Não é o dia épico que decide, é a sequência. A regra da casa: todo dia tem programa, todo dia tem revisão.
 
 Faltam 55 dias para o ENEM e 54 para o SAT.`,
-        cta: 'comenta <b>REVISÃO</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
-        nota: 'A capa já traz o diagrama das duas curvas: dá para gravar só a voz por cima dele. Precisa de você.' } },
+        cta: 'comenta <b>ROTINA</b> que eu te mando o link no direct',
+        tags: '#afazenda #rotinadeestudos #enem2026 #vidadeestudante',
+        nota: 'A Fazenda por NOME (uso nominativo), sem logo nem imagem da Record. Estreia 14/9 22h30 confirmada em duas fontes, 29/8. O Reel de repetição espaçada desliza para 21/9.' } },
 
     { d: '2026-09-15',
       post: { dir: 'setembro-unicos', n: 4, tipo: 'post único · número',
@@ -325,14 +328,16 @@ O segundo dia do ENEM é 15 de novembro.`,
         titulo: 'Um aluno pediu ontem',
         legenda: `Um aluno mandou isso no direct ontem. Está no ar hoje.
 
-É essa a vantagem de ser feito por dois irmãos que ainda respondem os próprios comentários.`,
+É essa a vantagem de ser feito por dois irmãos que ainda respondem os comentários eles mesmos.
+
+Faltam 53 dias para o ENEM e 52 para o SAT.`,
         cta: 'manda a sua no direct',
         tags: '#buildinpublic #rotinadeestudos #estudos',
         nota: 'O changelog que funciona: vira história, não anúncio de recurso. Precisa de um pedido real de aluno, com permissão de mostrar o print.' },
       tarefas: ['Bastidor de quarta.'] },
 
     { d: '2026-09-17',
-      post: { dir: 'setembro-unicos', n: 5, tipo: 'post único · colagem', bloqueado: true,
+      post: { dir: 'setembro-unicos', n: 6, tipo: 'post único · colagem', bloqueado: true,
         titulo: 'Três alunos, três semanas',
         legenda: `Três alunos, três rotinas completamente diferentes, a mesma reclamação.
 
@@ -349,17 +354,19 @@ Faltam 52 dias para o ENEM e 51 para o SAT.`,
 
     { d: '2026-09-18', contexto: 'Último dia de inscrição do SAT de 3 de outubro',
       post: { dir: 'trending', n: 1, tipo: 'post único · cor cheia · serviço',
-        titulo: 'Hoje fecha a inscrição do SAT de 3 de outubro',
-        legenda: `Hoje é o último dia de inscrição para o SAT de 3 de outubro.
+        titulo: 'Hoje é dia triplo',
+        legenda: `Hoje três coisas acontecem ao mesmo tempo.
 
-Se você ia fazer essa data e deixou passar, a próxima é 7 de novembro, e a inscrição dela fecha em 23 de outubro. Depois disso só 5 de dezembro.
+Fecha a inscrição do SAT de 3 de outubro. Abre o early access do FC 27, pra quem pagou a edição cara. E o Fonseca estreia na Copa Davis, jogando em casa, no Rio.
 
-E vale saber de uma coisa antes de escolher: o SAT de 7 de novembro é sábado, e o ENEM dia 1 é domingo, 8. Quem faz os dois faz em dias seguidos.
+Só uma das três não tem segunda chance. Se você ia fazer o SAT de outubro, não deixa hoje passar: a próxima data é 7 de novembro, sábado, VÉSPERA do ENEM. Quem faz os dois faz em dias seguidos.
+
+O FC e o jogo do Fonseca têm replay. O prazo não.
 
 Faltam 51 dias para o ENEM e 50 para o SAT de novembro.`,
         cta: 'comenta <b>SAT</b> que eu te mando o calendário completo no direct',
-        tags: '#sat #estudarfora #enem2026 #vestibular',
-        nota: 'Post de serviço, e o mais útil do mês para quem faz SAT. Datas do College Board, satsuite.collegeboard.org.' },
+        tags: '#sat #fc27 #copadavis #enem2026 #vestibular',
+        nota: 'Os três fatos verificados em 29/8: College Board (deadline 18/9), EA oficial (early access 18/9), CNN/Lance (Davis 18-19/9, Farmasi Arena, Fonseca convocado). FC 27 e Copa Davis por NOME, sem logo, sem arte oficial.' },
       stories: [{ dir: 'setembro-stories', n: 9, o: 'Hippo · 51 e 50 dias', faz: 'Ritual da sexta.' }] },
 
     { d: '2026-09-19',
@@ -393,17 +400,17 @@ Faltam 49 dias para o ENEM e 48 para o SAT. Sete semanas exatas.`,
       stories: [{ dir: 'setembro-stories', n: 10, o: 'Caixinha', faz: 'Repost do carrossel no mesmo dia.' }] },
 
     { d: '2026-09-21',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 7, gancho: 7, clip: 'desmos',
-        tipo: 'Reel micro-aula · 14s',
-        titulo: 'O Desmos em 4 segundos',
-        legenda: `A calculadora gráfica já vem na prova. A questão é saber o que digitar, e quase ninguém treina isso.
+      post: { reel: true, dir: 'setembro-reels-capas', n: 3, gancho: 3,
+        tipo: 'Reel micro-aula · 20s',
+        titulo: 'Repetição espaçada',
+        legenda: `Reler cinco vezes na véspera não é estudar cinco vezes.
 
-Tem um curso de 50 lições de Desmos dentro do PeakScore, com duelo contra o Hippo.
+A curva do esquecimento não liga para esforço, ela liga para intervalo. Três voltas espaçadas na mesma matéria valem mais que uma maratona de domingo.
 
 Faltam 48 dias para o ENEM e 47 para o SAT.`,
-        cta: 'comenta <b>DESMOS</b> que eu te mando o link no direct',
-        tags: '#sat #matematica #estudarfora #vestibular',
-        nota: 'Footage do curso já capturado: desmos.mp4. Falta a questão sendo resolvida na tela. As 50 lições são o número real do site.' },
+        cta: 'comenta <b>REVISÃO</b> que eu te mando o link no direct',
+        tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
+        nota: 'Veio de 14/9 (deu lugar à estreia de A Fazenda). A capa já traz o diagrama das duas curvas: dá para gravar só a voz por cima. Precisa de você.' },
       stories: [{ dir: 'setembro-stories', n: 11, o: 'Enquete · adversário do Hippo', faz: 'Escolhe o adversário do Reel de amanhã. Grave depois que ela fechar.' }] },
 
     { d: '2026-09-22',
@@ -421,9 +428,11 @@ Faltam 47 dias para o ENEM e 46 para o SAT. Dá tempo de virar o jogo.`,
       post: { reel: true, dir: 'setembro-reels-capas', n: 9, gancho: 9,
         tipo: 'Reel bastidor · 18s',
         titulo: 'Por que a gente não cobra',
-        legenda: `A pergunta que mais chega no direct é "qual é a pegadinha". Não tem.
+        legenda: `A pergunta que todo mundo faz é "qual é a pegadinha". Não tem.
 
-O organizador inteiro é grátis e a demonstração nem pede cadastro. O porquê está no vídeo.`,
+O organizador inteiro é grátis e a demonstração nem pede cadastro. O porquê está no vídeo.
+
+Faltam 46 dias para o ENEM e 45 para o SAT.`,
         cta: 'comenta <b>GRÁTIS</b> que eu te mando o link no direct',
         tags: '#buildinpublic #educacao #rotinadeestudos',
         nota: 'CUIDADO com a palavra: o site diz "grátis para começar, planos pagos podem chegar depois". Não prometa "grátis para sempre" no vídeo.' },
@@ -433,11 +442,11 @@ O organizador inteiro é grátis e a demonstração nem pede cadastro. O porquê
       post: { dir: 'setembro-24-gratis', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: 'Grátis, e por quê',
         labels: ['capa','a pergunta','o organizador','e o SAT','a conta','o que promete','fecho'],
-        legenda: `"Qual é a pegadinha?" é a primeira coisa que chega no direct toda semana.
+        legenda: `"Qual é a pegadinha?" é a pergunta que todo mundo faz.
 
 Não tem. O organizador inteiro é grátis: as aulas, as tarefas, as provas, as notas e a sincronia com o Google Classroom. A demonstração nem pede cadastro.
 
-A parte do SAT se apoia no que já é aberto, Khan Academy e Bluebook, mais um curso de 50 lições de Desmos aqui dentro. Alguns livros são pagos à parte, e a gente diz isso na cara: o PeakScore em si não custa nada.
+A parte do SAT se apoia no que já é aberto, Khan Academy e Bluebook, mais um curso de 50 lições de Desmos aqui dentro. Alguns livros são pagos à parte, e a gente diz isso de cara: o PeakScore em si não custa nada.
 
 Planos pagos podem chegar depois, e está escrito assim no site. O que existe hoje não custa nada.
 
@@ -479,58 +488,60 @@ Faltam 43 dias para o ENEM e 42 para o SAT.`,
       post: { dir: 'setembro-27-outubro', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: 'Plano de outubro',
         labels: ['capa · interface','42 dias','semanas 1 e 2','semanas 3 e 4','semanas 5 e 6','outubro','fecho'],
-        legenda: `Outubro cabe em seis semanas. Depois disso é novembro, e novembro não negocia.
+        legenda: `Daqui até a prova são seis semanas. Depois disso é novembro, e novembro não negocia.
 
 Semanas 1 e 2: comece pelo que você mais erra, não pelo que você mais gosta. Semanas 3 e 4: um simulado inteiro, no horário da prova, 13h30, sem pausa extra. Semanas 5 e 6: só o que você já errou, com espaço entre as voltas.
 
-E os dois blocos vazios continuam vazios. Semana cheia é semana que quebra na primeira mudança.
+E dois blocos ficam vazios de propósito. Semana cheia é semana que quebra na primeira mudança.
+
+Hoje, aliás, é a prova disso: tem gente que hoje sai da prova do ITA e ainda vê o segundo tempo de Ravens x Cowboys no Maracanã. Mesma pessoa, mesmo domingo. Planejou.
 
 Faltam 42 dias para o ENEM e 41 para o SAT. Este é o primeiro dos seis domingos que sobraram.`,
         cta: 'comenta <b>OUTUBRO</b> que eu te mando o plano das seis semanas no direct',
         tags: '#enem2026 #rotinadeestudos #cronograma #vestibular #organizacao',
-        nota: 'Abre a contagem diária de outubro.' },
+        nota: 'Abre a contagem diária de outubro. NFL Rio (Ravens x Cowboys, Maracanã, 17h25) e prova do ITA (13h-18h) confirmados em 29/8; por NOME, sem logo de liga ou time.' },
       stories: [{ dir: 'setembro-stories', n: 13, o: 'Caixinha', faz: 'As respostas viram o plano de outubro.' }] },
 
     { d: '2026-09-28',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 10, gancho: 10,
-        tipo: 'Reel micro-aula · 16s',
-        titulo: 'Três matérias em uma hora',
-        legenda: `Três blocos de vinte minutos, com uma regra no meio, e essa regra é a parte que ninguém conta.
+      post: { reel: true, dir: 'setembro-reels-capas', n: 7, gancho: 7, clip: 'desmos',
+        tipo: 'Reel micro-aula · 14s',
+        titulo: 'O Desmos em 4 segundos',
+        legenda: `A calculadora gráfica já vem na prova do SAT. A questão é saber o que digitar, e quase ninguém treina isso.
 
-Não é multitarefa: é trocar antes de cansar.
+Tem um curso de 50 lições de Desmos dentro do PeakScore, com duelo contra o Hippo.
 
 Faltam 41 dias para o ENEM e 40 para o SAT.`,
-        cta: 'comenta <b>UMA HORA</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
-        nota: 'Fecha o mês com método. Precisa de você.' } },
+        cta: 'comenta <b>DESMOS</b> que eu te mando o link no direct',
+        tags: '#sat #matematica #estudarfora #vestibular',
+        nota: 'Veio de 21/9. Footage do curso já capturado: desmos.mp4. As 50 lições são o número real do site. O Reel "Três matérias em uma hora" abre outubro.' } },
 
     { d: '2026-09-29',
       post: { dir: 'esporte', n: 2, tipo: 'post único · campo escuro · marco',
         titulo: 'A largada acontece durante a sua prova',
         legenda: `Domingo, 8 de novembro. O ENEM começa às 13h30 e vai até as 19h.
 
-Às 17h desse mesmo domingo começa a corrida em Interlagos, a vinte e poucos quilômetros de onde boa parte de São Paulo vai estar sentada fazendo prova.
+Às 14h desse mesmo domingo é a largada em Interlagos, a vinte e poucos quilômetros de onde boa parte de São Paulo vai estar sentada fazendo prova. Bandeirada, pódio, entrevista: a corrida INTEIRA acontece e termina, e você ainda vai ter duas horas de prova pela frente. E à noite tem a volta da semifinal da Copa do Brasil.
 
-Você vai estar na questão 60. E tudo bem, porque a prova é uma vez e o replay existe.
+E tudo bem, porque a prova é uma vez e o replay existe.
 
 O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39 para o SAT.`,
         cta: 'marca quem já tinha percebido que era no mesmo dia',
         tags: '#enem2026 #f1 #vestibular #rotinadeestudos',
-        nota: 'Fato conferido: GP de São Paulo dias 6, 7 e 8 de novembro, corrida principal domingo às 17h; ENEM dia 1 das 13h30 às 19h. A corrida acontece inteira dentro da prova, e ninguém tinha feito essa conta. Fórmula 1 e Interlagos aparecem por NOME, nunca por logotipo ou foto de corrida.' } },
+        nota: 'Fato conferido: GP de São Paulo dias 6, 7 e 8 de novembro, corrida principal domingo às 14h de Brasília (17h GMT); ENEM dia 1 das 13h30 às 19h. A corrida acontece inteira dentro da prova, e ninguém tinha feito essa conta. Fórmula 1 e Interlagos aparecem por NOME, nunca por logotipo ou foto de corrida.' } },
 
     { d: '2026-09-30', contexto: 'Fecha setembro e abre a contagem diária de outubro',
       post: { dir: 'trending', n: 2, tipo: 'post único · campo escuro · marco',
         titulo: 'Quatro dias entre o ENEM e o GTA VI',
-        legenda: `O ENEM acaba dia 15 de novembro. O GTA VI sai dia 19.
+        legenda: `O ENEM acaba dia 15 de novembro. Dia 19, saem NO MESMO DIA o GTA VI e o novo Jogos Vorazes, Amanhecer na Colheita.
 
-Quatro dias.
+Quatro dias entre a prova e isso tudo.
 
-Não é motivação de cartaz, é calendário: existe uma data em que isso tudo termina, e ela está a quatro dias da coisa que metade de vocês está esperando há anos.
+Não é motivação de cartaz, é calendário: existe uma data em que isso termina, e ela está a quatro dias da fila de coisas que meio mundo espera há anos.
 
-Outubro é a última milha. Faltam 39 dias para o primeiro dia do ENEM e 38 para o SAT.`,
+Outubro é a reta final. Faltam 39 dias para o primeiro dia do ENEM e 38 para o SAT.`,
         cta: 'marca quem vai sumir no dia 19',
         tags: '#gta6 #enem2026 #rotinadeestudos #vestibular',
-        nota: 'GTA VI aparece por NOME, nunca com arte oficial, logotipo ou captura do jogo. Data confirmada pela Rockstar: quinta, 19 de novembro de 2026. Campo escuro é o único do mês, reservado a marco com número externo e verificável.' } },
+        nota: 'GTA VI e Jogos Vorazes por NOME, nunca com arte oficial, logotipo ou captura. GTA VI 19/11 (Rockstar, reafirmado 7/8); Amanhecer na Colheita 19/11 no Brasil (Rolling Stone + Ingresso, checado 29/8). Campo escuro é reservado a marco com número externo e verificável.' } },
   ];
 
   // A contagem e calculada, nunca digitada.
