@@ -156,19 +156,28 @@ Faltam 67 dias para o ENEM e 66 para o SAT de 7 de novembro.`,
         nota: 'Footage do app já capturado em português: reels/out/hoje.mp4. Falta montar com a cartela de gancho na frente. Sem narração.' },
       tarefas: ['Bastidor de quarta: vídeo de celular, sem edição, som ambiente.'] },
 
-    { d: '2026-09-03',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 2, gancho: 2, clip: 'semana-montada',
-        tipo: 'Reel demo · 18s',
-        titulo: 'A semana já vem montada',
-        legenda: `Você não precisa montar cronograma. Você precisa que ele exista quando a professora adianta a prova.
+    { d: '2026-09-03', contexto: 'Estreia do formato PeakScore Insights',
+      post: { dir: 'insights-01', cards: 6, tipo: 'carrossel Insights · 6 cards',
+        titulo: 'Como a sua semana se remonta sozinha',
+        labels: ['capa','a âncora','o peso 4','as 4 fases','depois da prova','fecho'],
+        legenda: `Todo app de organização promete que "se adapta". Quase nenhum conta como.
 
-Isso aqui é a semana de verdade, no app, em português. Escola, SAT e treino na mesma grade, e ela se remonta sozinha quando algo muda.
+Aqui está o nosso, sem marketing:
 
-Sincroniza com o Google Classroom. Faltam 66 dias para o ENEM e 65 para o SAT.`,
-        cta: 'comenta <b>PLANO</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #enem2026 #organizacao #estudos',
-        nota: 'Footage do app JÁ CAPTURADO em português: reels/out/semana-montada.mp4. É o app de verdade, não maquete.' } },
+O plano ganha uma âncora. A data em que você começou fica gravada e nunca se move, nem quando você abre o app num aparelho novo. Sem isso o seu começo seria empurrado para hoje toda vez, e o cronograma inteiro derivaria.
 
+O que você arrasta para o topo pesa mais. A ordem dos seus materiais não é enfeite: o primeiro entra no sorteio com peso 4, o segundo com peso 2, o resto com peso 1. Você prioriza arrastando.
+
+São quatro fases, e a última chama Pico: descanso, revisão e execução. É exatamente o que atleta faz na semana da competição, e é o oposto de virar a noite.
+
+E depois da prova o plano não apaga. Sessões leves seguem até o dia do resultado.
+
+Nada disso você configura. Você informa a data da prova e os dias que estuda.
+
+Faltam 66 dias para o ENEM e 65 para o SAT de 7 de novembro.`,
+        cta: 'comenta <b>COMO</b> que eu te mando o link no direct',
+        tags: '#organizacao #rotinadeestudos #enem2026 #vestibular',
+        nota: 'ESTREIA do registro Insights: campo de cor claro com desenho de traço, sem fundo laranja e sem fundo preto. Tudo que está escrito é o algoritmo de verdade, lido em dashboard.html (buildPersonalizedSchedule, o pool ponderado 4x/2x/1x, as quatro fases, _psPostTestPlan). Mostra sofisticação explicando o mecanismo, nunca dizendo que somos inovadores.' } },
     { d: '2026-09-04',
       post: { dir: 'momentos', n: 2, tipo: 'post único · foto e uma frase',
         titulo: 'A segunda-feira já está marcada',
@@ -291,19 +300,17 @@ Faltam 58 dias para o ENEM e 57 para o SAT.`,
       stories: [{ dir: 'setembro-stories', n: 6, o: 'Hippo · 58 e 57 dias', faz: 'Ritual da sexta.' }] },
 
     { d: '2026-09-12', contexto: 'Hoje é dia de SAT (12/9)',
-      post: { dir: 'sabado', n: 2, tipo: 'post único · sábado é o dia da piada',
-        titulo: 'Se você marcou tudo, você não marcou nada',
-        legenda: `Se você marcou tudo, você não marcou nada.
+      post: { reel: true, dir: 'setembro-reels-capas', n: 2, gancho: 2, clip: 'semana-montada',
+        tipo: 'Reel demo · 18s',
+        titulo: 'A semana já vem montada',
+        legenda: `Você não precisa montar cronograma. Você precisa que ele exista quando a professora adianta a prova.
 
-A página inteira amarela não é destaque, é decoração. Marca-texto serve pra dizer "isso aqui é diferente do resto", e quando é tudo, não é nada.
+Isso aqui é a semana de verdade, no app, em português. Escola, SAT e treino na mesma grade, e ela se remonta sozinha quando algo muda.
 
-A regra que funciona é chata: no máximo uma linha por parágrafo. Se não couber, o parágrafo é que precisa ser relido.
-
-Faltam 57 dias para o ENEM e 56 para o SAT.`,
-        cta: 'marca quem pinta a apostila inteira',
-        tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
-        nota: 'Pexels 1629212, Min An. Véu no forte: a foto é cheia de detalhe e a serifada branca sumiria.' } },
-
+Sincroniza com o Google Classroom. Faltam 57 dias para o ENEM e 56 para o SAT de 7 de novembro.`,
+        cta: 'comenta <b>PLANO</b> que eu te mando o link no direct',
+        tags: '#rotinadeestudos #enem2026 #organizacao #estudos',
+        nota: 'Veio de 3/9, que virou a estreia do Insights. Footage do app JÁ CAPTURADO em português: reels/out/semana-montada.mp4. Story de manhã: boa prova para quem faz SAT hoje.' } },
     { d: '2026-09-13',
       post: { dir: 'setembro-unicos', n: 3, tipo: 'post único · foto silenciosa',
         titulo: 'O domingo decide a semana',
