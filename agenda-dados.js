@@ -98,7 +98,7 @@ Nenhum time ganha o campeonato numa rodada. Ganha somando ponto em outubro, em n
 
 É a mesma conta com estudo, e é por isso que a semana comum importa mais que o domingo heroico. A véspera salva uma prova. Ela não salva um semestre.
 
-Faltam 70 dias para o ENEM e 69 para o SAT.`,
+Faltam 70 dias para o ENEM e 69 para o SAT de 7 de novembro.`,
         cta: 'marca quem só estuda na véspera',
         tags: '#rotinadeestudos #enem2026 #vestibular #estudos',
         nota: 'SEM TIME. Metade do público torce para o outro, e um perfil de organização escolar não tem nada a ganhar escolhendo lado. Nenhum clube, posição ou rodada é citado. Bônus do dia: Fla x Botafogo E Corinthians x Santos às 16h, o post fala disso sem citar nenhum.' },
@@ -116,7 +116,7 @@ Faltam 70 dias para o ENEM e 69 para o SAT.`,
 
 Não é falta de força de vontade. É que voltar direto no nível de antes não funciona para ninguém, nem para quem faz isso profissionalmente.
 
-Alcaraz ficou quatro meses parado com uma lesão no punho. Hoje ele estreia no US Open defendendo o título. E a volta dele não começou no talento: treinou primeiro com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou duplas, que tem menos pressão. Só então entrou na chave principal.
+Alcaraz ficou quatro meses parado com uma lesão no punho. Hoje ele estreia no US Open defendendo o título. E a volta dele não começou no talento: ele treinou primeiro com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou nas duplas, onde a pressão é menor. Só então entrou na chave principal.
 
 Se o número 2 do mundo volta pelo degrau de baixo, você também pode.
 
@@ -131,11 +131,11 @@ Faltam 69 dias para o ENEM e 68 para o SAT de 7 de novembro.`,
       post: { dir: 'setembro-01-carrossel', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: 'Sua vida escolar mora em cinco lugares',
         labels: ['capa','os cinco','68 dias','se refaz sozinho','cinco x um','dois irmãos','fecho'],
-        legenda: `Sua vida escolar mora em cinco lugares diferentes, e nenhum deles conversa com o outro.
+        legenda: `Sua vida escolar mora em cinco lugares diferentes, e nenhum deles conversa com os outros.
 
 O quadro da escola, o grupo da turma, o print no rolo da câmera, a agenda de papel e a sua memória. A conta de juntar tudo sobra pra você, sempre no domingo à noite.
 
-Faltam 68 dias para o primeiro dia do ENEM e 67 para o SAT. A gente juntou tudo num lugar que se refaz sozinho quando a semana muda, e sincroniza com o Google Classroom. Grátis para começar, feito por dois irmãos que fizeram essas provas.`,
+Faltam 68 dias para o primeiro dia do ENEM e 67 para o SAT de 7 de novembro. A gente juntou tudo num lugar que se refaz sozinho quando a semana muda, e sincroniza com o Google Classroom. Grátis para começar, feito por dois irmãos que fizeram essas provas.`,
         cta: 'comenta <b>UM LUGAR</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #enem2026 #vestibular #organizacao #vidadeestudante',
         nota: 'Card 6 com art/mesa-23h.jpg. Pexels 16026769, Juan José Trujillo Reyes.' },
@@ -164,13 +164,13 @@ Faltam 67 dias para o ENEM e 66 para o SAT de 7 de novembro.`,
 
 Aqui está o nosso, sem marketing:
 
-O plano ganha uma âncora. A data em que você começou fica gravada e nunca se move, nem quando você abre o app num aparelho novo. Sem isso o seu começo seria empurrado para hoje toda vez, e o cronograma inteiro derivaria.
+O plano ganha uma âncora. A data em que você começou fica gravada e nunca se move, nem quando você abre o app num aparelho novo. Sem isso o seu começo seria empurrado para hoje toda vez, e o cronograma inteiro sairia do lugar.
 
-O que você arrasta para o topo pesa mais. A ordem dos seus materiais não é enfeite: o primeiro entra no sorteio com peso 4, o segundo com peso 2, o resto com peso 1. Você prioriza arrastando.
+O que você arrasta para o topo pesa mais. A ordem dos seus materiais não é enfeite: o primeiro tem 4 vezes mais chance de cair no seu dia, o segundo 2 vezes, o resto 1. Você prioriza arrastando.
 
-São quatro fases, e a última chama Pico: descanso, revisão e execução. É exatamente o que atleta faz na semana da competição, e é o oposto de virar a noite.
+São quatro fases. A última se chama Pico: descanso, revisão e execução. É exatamente o que atleta faz na semana da competição, e é o oposto de virar a noite.
 
-E depois da prova o plano não apaga. Sessões leves seguem até o dia do resultado.
+E depois da prova o plano não some. Sessões leves seguem até o dia do resultado.
 
 Nada disso você configura. Você informa a data da prova e os dias que estuda.
 
@@ -203,7 +203,7 @@ Mas a gente entende. É a única parte da lista que dá pra terminar hoje, e ter
 
 O problema é que às vezes é a única coisa que a gente termina a semana inteira.
 
-Faltam 64 dias para o ENEM e 63 para o SAT.`,
+Faltam 64 dias para o ENEM e 63 para o SAT de 7 de novembro.`,
         cta: 'marca o amigo que tem seis marca-textos e nenhum resumo',
         tags: '#rotinadeestudos #vidadeestudante #enem2026 #estudos',
         nota: 'A piada é sobre a situação e termina perdoando quem faz. A marca está do lado do aluno contra a semana, nunca do lado da semana contra o aluno. Pexels 6192519, KATRIN BOLOVTSOVA.' } },
@@ -218,7 +218,7 @@ Videoaula, apostila, PDF no grupo, resumo de março. Material não falta pra nin
 
 Toda vez que você abre o caderno e pensa "por onde eu começo", o tempo de estudo já começou a contar. E essa dúvida volta todo dia, porque nada ficou decidido.
 
-Faltam 63 dias para o primeiro dia do ENEM e 62 para o SAT. São nove semanas.`,
+Faltam 63 dias para o primeiro dia do ENEM e 62 para o SAT de 7 de novembro. São nove semanas.`,
         cta: 'comenta <b>ORDEM</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #vestibular #organizacao',
         nota: 'Vira os posts 1 e 2 do LinkedIn. Não depende de foto nenhuma.' },
@@ -245,7 +245,7 @@ A gente volta amanhã com a semana.`,
 
 A Champions começa hoje, e com ela um fato útil: Vini, Raphinha e Estêvão jogam terça e quarta até janeiro. Semana com âncora fixa é mais fácil de montar. O jogo não muda de lugar, então o resto se encaixa em volta. Aula e prova funcionam igual: são o seu jogo fixo, e o estudo entra nos espaços que sobram de verdade, não nos que você imagina que existem.
 
-Faltam 61 dias para o ENEM e 60 para o SAT.`,
+Faltam 61 dias para o ENEM e 60 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>JOGO</b> que eu te mando o link no direct',
         tags: '#championsleague #rotinadeestudos #enem2026 #vidadeestudante',
         nota: 'Champions, Vini, Raphinha e Estêvão por NOME (uso nominativo), sem escudo, sem foto de jogo (direito de arena). Rodada 1 em 8-10/9, UEFA, checado 29/8. A triagem do Hippo sai do mês.' } },
@@ -257,11 +257,11 @@ Faltam 61 dias para o ENEM e 60 para o SAT.`,
 
 O contrário disso tem nome e tem número.
 
-Sinner, número 1 do mundo e campeão de Wimbledon, se retirou do US Open por causa do joelho e remarcou a volta para outubro. Podia ter forçado. Não forçou. E estudos com nadadores, ciclistas e corredores mostram por quê: cortar de 41% a 60% do volume de treino nas duas semanas antes da competição, mantendo a intensidade, melhora o desempenho na hora que importa. Chama taper. A adaptação acontece no descanso, não no esforço.
+Sinner, número 1 do mundo e campeão de Wimbledon, se retirou do US Open por causa do joelho e remarcou a volta para outubro. Podia ter forçado. Não forçou. E estudos com nadadores, ciclistas e corredores mostram por quê: cortar de 41% a 60% do volume de treino nas duas semanas antes da competição, mantendo a intensidade, melhora o desempenho na hora que importa. Isso se chama taper. A adaptação acontece no descanso, não no esforço.
 
 Semana de prova é isso: menos matéria nova, mais revisão do que você já viu, e dormir.
 
-No PeakScore, quando a prova se aproxima, o plano enxuga o volume sozinho e prioriza revisão. Você não precisa ter a disciplina de parar: o cronograma já para por você.
+No PeakScore, quando a prova se aproxima, o plano enxuga o volume sozinho e prioriza revisão. Você não precisa ter a disciplina de parar: o cronograma já reduz por você.
 
 Faltam 60 dias para o ENEM e 59 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>DESCANSO</b> que eu te mando o link no direct',
@@ -274,7 +274,7 @@ Faltam 60 dias para o ENEM e 59 para o SAT de 7 de novembro.`,
         titulo: 'Planner de papel vs semana real',
         legenda: `O planner de papel funciona até a terça-feira.
 
-Aí a professora adianta a prova, o treino muda de horário, e a página que você caprichou no domingo vira ficção. Você não refaz. Ninguém refaz.
+Aí a professora adianta a prova, o treino muda de horário, e a página em que você caprichou no domingo vira ficção. Você não refaz. Ninguém refaz.
 
 O problema nunca foi o papel. É que a sua semana muda e o papel não.`,
         cta: '',
@@ -293,7 +293,7 @@ Só que ninguém acerta o tema. O que dá pra treinar é a estrutura, que é a m
 
 E isso precisa de lugar na semana. Repertório que você lê solto no feed não vira redação; vira leitura.
 
-Faltam 58 dias para o ENEM e 57 para o SAT.`,
+Faltam 58 dias para o ENEM e 57 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>REDAÇÃO</b> que eu te mando o link no direct',
         tags: '#redacaoenem #enem2026 #vestibular #rotinadeestudos',
         nota: 'Pega a onda das listas de temas, que é o assunto do nicho agora. NÃO prevê tema: o post é sobre método. Os cinco temas vêm do noticiário de agosto de 2026, não de previsão nossa.' },
@@ -335,7 +335,7 @@ Hoje às 22h30 estreia A Fazenda 18. E reality é assim: todo dia tem.
 
 Rotina de estudo funciona igual. Não é o dia épico que decide, é a sequência. A regra da casa: todo dia tem programa, todo dia tem revisão.
 
-É por isso que o PeakScore abre no plano de HOJE: um dia decidido por vez, todo dia. Reality não pula capítulo, rotina também não.
+É por isso que o PeakScore abre no plano de HOJE: um dia decidido por vez, todo dia. Reality não pula um dia, rotina também não.
 
 Faltam 55 dias para o ENEM e 54 para o SAT.`,
         cta: 'comenta <b>ROTINA</b> que eu te mando o link no direct',
@@ -363,7 +363,7 @@ O segundo dia do ENEM é 15 de novembro.`,
         titulo: 'Um aluno pediu ontem',
         legenda: `Um aluno mandou isso no direct ontem. Está no ar hoje.
 
-É essa a vantagem de ser feito por dois irmãos que ainda respondem os comentários eles mesmos.
+É essa a vantagem de um app feito por dois irmãos que ainda respondem os comentários eles mesmos.
 
 Faltam 53 dias para o ENEM e 52 para o SAT.`,
         cta: 'manda a sua no direct',
@@ -376,11 +376,11 @@ Faltam 53 dias para o ENEM e 52 para o SAT.`,
         titulo: 'Três horas estudando não são três horas melhorando',
         legenda: `Você senta três horas, relê a matéria que já entende, e levanta com a sensação de ter estudado. Na prova cai justo aquilo que você pulou porque dava trabalho.
 
-Você já ouviu que são precisas 10 mil horas para ficar bom em alguma coisa. O estudo original, de 1993, com trinta violinistas, nunca disse isso.
+Você já ouviu que são necessárias 10 mil horas para ficar bom em alguma coisa. O estudo original, de 1993, com trinta violinistas, nunca disse isso.
 
-O que separava os melhores não era o total de horas. Era o TIPO de prática: com alvo específico, com correção, refazendo o pedaço ruim. E as 10 mil eram uma média, não um limiar. O próprio autor chamou o número de arbitrário depois que ele virou regra popular.
+O que separava os melhores não era o total de horas. Era o TIPO de prática: com alvo específico, com correção, refazendo o pedaço ruim. E as 10 mil eram uma média, não um número mínimo. O próprio autor chamou o número de arbitrário depois que ele virou regra popular.
 
-Exemplo vivo desta semana: Coco Gauff estava dando dupla falta demais. Contratou um treinador só para o saque e atacou aquele erro. Caiu de 9,8 para 5,3 duplas faltas por jogo.
+Exemplo vivo desta semana: Coco Gauff estava dando dupla falta demais. Contratou um treinador só para o saque e atacou aquele erro. As duplas faltas dela caíram de 9,8 para 5,3 por jogo.
 
 Não foi mais tempo em quadra. Foi mirar o erro.
 
@@ -395,7 +395,7 @@ Faltam 52 dias para o ENEM e 51 para o SAT de 7 de novembro.`,
 
     { d: '2026-09-18', contexto: 'Último dia de inscrição do SAT de 3 de outubro',
       post: { dir: 'trending', n: 1, tipo: 'post único · cor cheia · serviço',
-        titulo: 'Três prazos hoje. Só um não tem segunda chance',
+        titulo: 'Três datas hoje. Só uma não volta',
         legenda: `Hoje você vai lembrar de dois e esquecer o terceiro. E o esquecido é justamente o único que não volta.
 
 Fecha a inscrição do SAT de 3 de outubro. Abre o early access do FC 27, pra quem pagou a edição cara. E o Fonseca estreia na Copa Davis, jogando em casa, no Rio.
@@ -419,7 +419,7 @@ Faltam 51 dias para o ENEM e 50 para o SAT de novembro.`,
 
 A playlist ficou ótima, é verdade. Ninguém tira isso de você.
 
-Mas repara no que aconteceu: você não estava procrastinando, você estava se preparando. É a procrastinação mais convincente que existe, porque ela parece produtiva.
+Mas repara no que aconteceu: na sua cabeça você não estava procrastinando, estava se preparando. É a procrastinação mais convincente que existe, porque ela parece produtiva.
 
 Faltam 50 dias para o ENEM e 49 para o SAT.`,
         cta: 'marca quem faz playlist antes de toda matéria',
@@ -430,14 +430,14 @@ Faltam 50 dias para o ENEM e 49 para o SAT.`,
       post: { dir: 'setembro-20-tres-erros', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: '3 erros que travam a sua semana',
         labels: ['capa · diagrama','erro 1','erro 2','erro 3','49 dias','à mão x sozinha','fecho'],
-        legenda: `Seu cronograma não quebra por preguiça. Ele quebra por montagem.
+        legenda: `Seu cronograma não quebra por preguiça. Ele quebra pelo jeito que foi montado.
 
 São três erros, e nenhum deles é sobre esforço. Planejar o dia em vez da semana. Encher a semana até a última hora. E o terceiro, que quase ninguém percebe: esperar a próxima segunda pra consertar o que quebrou na terça.
 
-São quatro recomeços por mês, todos do zero. Cinco minutos na terça salvam a semana inteira.
+Esperar segunda vira quatro recomeços por mês, todos do zero. Cinco minutos na terça salvam a semana inteira.
 
 Faltam 49 dias para o ENEM e 48 para o SAT. Sete semanas exatas.`,
-        cta: 'comenta <b>SEMANA</b> que eu te mando o link no direct',
+        cta: 'comenta <b>TRES ERROS</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #vestibular #organizacao',
         nota: 'O carrossel mais salvável do mês. Vira os posts 5 e 6 do LinkedIn.' },
       stories: [{ dir: 'setembro-stories', n: 10, o: 'Caixinha', faz: 'Repost do carrossel no mesmo dia.' }] },
@@ -463,7 +463,7 @@ Faltam 48 dias para o ENEM e 47 para o SAT.`,
         legenda: `O Hippo perdeu de novo para a semana de setembro. Prova de quinta, treino que mudou de horário, lista que fecha na terça.
 
 Faltam 47 dias para o ENEM e 46 para o SAT. Dá tempo de virar o jogo.`,
-        cta: 'marca quem está perdendo esse duelo com você',
+        cta: 'marca quem está perdendo esse duelo junto com você',
         tags: '#rotinadeestudos #vidadeestudante #enem2026',
         nota: 'Gravar depois que a enquete de ontem fechar. A piada é sobre a situação, nunca sobre o aluno.' } },
 
@@ -508,7 +508,7 @@ Você abriu o caderno com tempo de verdade na frente. E gastou o bloco inteiro d
 Decidir cansa, e cansa antes mesmo de você começar. É por isso que a matéria mais confortável ganha sempre nessa hora.
 
 Faltam 44 dias para o ENEM e 43 para o SAT.`,
-        cta: 'comenta <b>ORDEM</b> que eu te mando o link no direct',
+        cta: 'comenta <b>VINTE MINUTOS</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
         nota: 'Caderno pautado em branco sobre madeira. A página vazia é a mensagem. Pexels 606541, Jessica Lewis.' },
       stories: [{ dir: 'setembro-stories', n: 12, o: 'Hippo · 44 e 43 dias', faz: 'Ritual da sexta.' }] },
@@ -518,7 +518,7 @@ Faltam 44 dias para o ENEM e 43 para o SAT.`,
         titulo: 'Estudar em grupo: 10% estudo, 90% assunto',
         legenda: `Estudar em grupo: 10% estudo, 90% assunto.
 
-E os 10% rendem mais que sozinho. Explicar a matéria pra alguém é o jeito mais rápido de descobrir que você não sabia. É por isso que continua valendo, mesmo com os 90%.
+E esses 10% rendem mais do que estudar sozinho. Explicar a matéria pra alguém é o jeito mais rápido de descobrir o que você não sabia. É por isso que continua valendo, mesmo com os 90%.
 
 O que não vale é combinar quatro horas e chegar sem saber o que vocês vão fazer nelas.
 
@@ -531,13 +531,13 @@ Faltam 43 dias para o ENEM e 42 para o SAT.`,
       post: { dir: 'setembro-27-outubro', cards: 7, tipo: 'carrossel · 7 cards',
         titulo: 'Plano de outubro',
         labels: ['capa · interface','42 dias','semanas 1 e 2','semanas 3 e 4','semanas 5 e 6','outubro','fecho'],
-        legenda: `Daqui até a prova são seis semanas. Depois disso é novembro, e novembro não negocia.
+        legenda: `Daqui até a prova são seis semanas. Depois disso é a prova, e a prova não negocia.
 
-Semanas 1 e 2: comece pelo que você mais erra, não pelo que você mais gosta. Semanas 3 e 4: um simulado inteiro, no horário da prova, 13h30, sem pausa extra. Semanas 5 e 6: só o que você já errou, com espaço entre as voltas.
+Semanas 1 e 2: começa pelo que você mais erra, não pelo que você mais gosta. Semanas 3 e 4: um simulado inteiro, no horário da prova, 13h30, sem pausa extra. Semanas 5 e 6: só o que você já errou, com espaço entre as voltas.
 
 E dois blocos ficam vazios de propósito. Semana cheia é semana que quebra na primeira mudança, e é assim que o PeakScore monta a sua: com folga de verdade, porque a semana real muda.
 
-Hoje, aliás, é a prova disso: tem gente que hoje sai da prova do ITA e ainda vê o segundo tempo de Ravens x Cowboys no Maracanã. Mesma pessoa, mesmo domingo. Planejou.
+Hoje, aliás, é o exemplo disso: tem gente que sai da prova do ITA e ainda vê o segundo tempo de Ravens x Cowboys no Maracanã. Mesma pessoa, mesmo domingo. Planejou.
 
 Faltam 42 dias para o ENEM e 41 para o SAT. Este é o primeiro dos seis domingos que sobraram.`,
         cta: 'comenta <b>OUTUBRO</b> que eu te mando o plano das seis semanas no direct',
@@ -563,11 +563,11 @@ Faltam 41 dias para o ENEM e 40 para o SAT.`,
         titulo: 'A largada acontece durante a sua prova',
         legenda: `Domingo, 8 de novembro. O ENEM começa às 13h30 e vai até as 19h.
 
-Às 14h desse mesmo domingo é a largada em Interlagos, a vinte e poucos quilômetros de onde boa parte de São Paulo vai estar sentada fazendo prova. Bandeirada, pódio, entrevista: a corrida INTEIRA acontece e termina, e você ainda vai ter duas horas de prova pela frente. E à noite tem a volta da semifinal da Copa do Brasil.
+Às 14h desse mesmo domingo é a largada em Interlagos, a vinte e poucos quilômetros de onde boa parte de São Paulo vai estar sentada fazendo prova. Bandeira quadriculada, pódio, entrevista: a corrida INTEIRA acontece e termina, e você ainda vai ter duas horas de prova pela frente. E à noite tem a volta da semifinal da Copa do Brasil.
 
 E tudo bem, porque a prova é uma vez e o replay existe.
 
-Quem chega nesse domingo com as semanas montadas assiste ao replay em paz. É para isso que o cronograma do PeakScore existe: para novembro ser só executar.
+Quem chega nesse domingo com as semanas montadas assiste ao replay em paz. É para isso que o cronograma do PeakScore existe: para novembro ser só execução.
 
 O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39 para o SAT.`,
         cta: 'marca quem já tinha percebido que era no mesmo dia',
@@ -579,11 +579,11 @@ O que não tem replay é a semana que vem antes. Faltam 40 dias para o ENEM e 39
         titulo: 'Quatro dias entre o ENEM e o GTA VI',
         legenda: `A sua recompensa já tem data marcada. E ela é quatro dias depois da última prova.
 
-O ENEM acaba dia 15 de novembro. Dia 19, saem NO MESMO DIA o GTA VI e o novo Jogos Vorazes, Amanhecer na Colheita.
+O ENEM acaba dia 15 de novembro. Dia 19 saem o GTA VI e o novo Jogos Vorazes, Amanhecer na Colheita.
 
 Quatro dias entre a prova e isso tudo.
 
-Não é motivação de cartaz, é calendário: existe uma data em que isso termina, e ela está a quatro dias da fila de coisas que meio mundo espera há anos.
+Não é motivação de cartaz, é calendário: existe uma data em que isso termina, e ela está a quatro dias das coisas que meio mundo espera há anos.
 
 Monta no PeakScore o caminho de trás pra frente: da prova até hoje, semana a semana. O jogo e o filme viram a linha de chegada do cronograma, não a distração dele.
 

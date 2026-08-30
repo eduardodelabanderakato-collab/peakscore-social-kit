@@ -28,6 +28,7 @@ fica mesmo assim, porque custa nada e prova a procedência se alguém perguntar.
 | `art/bolas-tenis.jpg` | série Por trás do treino 04 (17/9) | [pexels 5739230](https://www.pexels.com/photo/a-close-up-shot-of-tennis-balls-5739230/) | cottonbro studio |
 | `art/tenis-vestiario.jpg` | série Por trás do treino 05 | [pexels 3875515](https://www.pexels.com/photo/sneakers-under-a-wooden-bench-3875515/) | Polina Tankilevitch |
 | `art/mochila-quadra.jpg` | série Por trás do treino 06 | [pexels 8249067](https://www.pexels.com/photo/backpack-on-brown-wooden-bench-8249067/) | Julia Filirovska |
+| `art/campo-futebol.jpg` | post da Champions (8/9) | [pexels 16726155](https://www.pexels.com/photo/birds-eye-view-of-football-pitch-16726155/) | Chris F |
 
 `art/school-books.jpg`, `art/school-hero.jpg`, `art/atmosphere.jpg` e
 `art/ribbon.jpg` já estavam no repo antes desta rodada.
@@ -168,3 +169,20 @@ Súmula 403 do STJ). Frame de transmissão soma ainda o direito de arena
 Armadilha técnica registrada: o padrão `pexels-photo-<ID>.jpeg` NÃO é
 universal, alguns originais são PNG e o .jpeg dá 404. E www.pexels.com
 bloqueia curl (Cloudflare), enquanto images.pexels.com serve normalmente.
+
+
+### O logo da Champions, e por que ele nunca entra
+
+O Eduardo pediu uma foto de campo COM o logo da Champions. Não existe versão
+legal disso: a bola de estrelas é marca registrada da UEFA, e licença de banco
+de imagem cobre a FOTOGRAFIA, nunca a marca que aparece dentro dela. Vale o
+mesmo raciocínio do rosto de atleta.
+
+Fotos rejeitadas nesta busca, registradas para ninguém readicionar:
+pexels 3571569 (letreiro "FUTEBOL CLUBE DO PORTO" e placas de patrocínio),
+14658684 (logos adidas, escudo do São Paulo FC e multidão),
+28948294 (logo da MLS e escudo do Chicago Fire),
+17425774 (limpa, mas o fundo é plateia desfocada e lê como transmissão).
+
+Armadilha técnica confirmada de novo: os IDs 46798 e 47730 são citados como
+foto de grama mas o .jpeg deles devolve 404 com 27 bytes de texto.
