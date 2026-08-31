@@ -154,8 +154,9 @@ Faltam 67 dias para o ENEM e 66 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>DOMINGO</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #enem2026 #vidadeestudante #vestibular',
         nota: 'Footage do app já capturado em português: reels/out/hoje.mp4. Falta montar com a cartela de gancho na frente. Sem narração.' },
-      tarefas: ['Bastidor de quarta: vídeo de celular, sem edição, som ambiente.'] },
-
+      tarefas: ['Bastidor de quarta: vídeo de celular, sem edição, som ambiente.'],
+      stories: [
+        { dir: 'campanha-stories', n: 2, o: 'Teaser 02 · o print borrado', faz: 'Sem explicação nenhuma. Quem perguntar, responder só "dia 8".' } ] },
     { d: '2026-09-03', contexto: 'Estreia do formato PeakScore Insights',
       post: { dir: 'insights-01', cards: 6, tipo: 'carrossel Insights · 6 cards',
         titulo: 'Como a sua semana se remonta sozinha',
@@ -222,7 +223,8 @@ Faltam 63 dias para o primeiro dia do ENEM e 62 para o SAT de 7 de novembro. Sã
         cta: 'comenta <b>ORDEM</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #vestibular #organizacao',
         nota: 'Vira os posts 1 e 2 do LinkedIn. Não depende de foto nenhuma.' },
-      stories: [{ dir: 'setembro-stories', n: 3, o: 'Caixinha aberta',
+      stories: [
+        { dir: 'campanha-stories', n: 5, o: 'Affirmations de véspera', faz: 'Rito de domingo. Sticker "reposta se for você".' },{ dir: 'setembro-stories', n: 3, o: 'Caixinha aberta',
         faz: 'Sticker de perguntas na caixa tracejada. Responder uma por dia.' }],
       tarefas: [] },
 
@@ -236,21 +238,33 @@ Sério, é isso. Sem "mas aproveita pra revisar", sem "quem estuda no feriado sa
 A gente volta amanhã com a semana.`,
         cta: 'marca quem precisa ler isso hoje',
         tags: '#rotinadeestudos #vidadeestudante #enem2026',
-        nota: 'Um perfil de organização que cobra no feriado é só mais uma voz mandando estudar. Este dá o dia de volta, e é o post mais generoso do mês. Pexels 9015904, UMUT DAĞLI.' } },
+        nota: 'Um perfil de organização que cobra no feriado é só mais uma voz mandando estudar. Este dá o dia de volta, e é o post mais generoso do mês. Pexels 9015904, UMUT DAĞLI.' },
+      stories: [
+        { dir: 'campanha-stories', n: 3, o: 'Teaser 03 · véspera', faz: 'À noite, único story do feriado. Countdown sticker para amanhã 17h.' } ] },
+    { d: '2026-09-08', contexto: 'DROP 01 · A TURMA · o dia mais importante do mês',
+      post: { dir: 'drop01', cards: 6, tipo: 'carrossel DROP · 6 cards',
+        titulo: 'DROP 01 · A Turma',
+        labels: ['capa','o que é','como funciona','o que não tem','a regra','comenta a escola'],
+        legenda: `A gente construiu uma coisa nova, e ela não funciona sozinha. De propósito.
 
-    { d: '2026-09-08',
-      post: { dir: 'setembro-unicos', n: 1, tipo: 'post único · cor cheia',
-        titulo: 'Você já sabe a hora do jogo. E a hora de estudar?',
-        legenda: `Você sabe exatamente que dia e que horas o seu time joga nos próximos quatro meses. Consegue dizer o mesmo do seu estudo?
+Chama Turma. Alguém da sua sala cria, manda um link no grupo, e quem entra já vê o calendário de provas de vocês, montado. Qualquer um adiciona a prova que o professor marcou, e o cronograma de cada um se remonta em volta dela.
 
-A Champions começa hoje, e com ela um fato útil: Vini, Raphinha e Estêvão jogam terça e quarta até janeiro. Semana com âncora fixa é mais fácil de montar. O jogo não muda de lugar, então o resto se encaixa em volta. Aula e prova funcionam igual: são o seu jogo fixo, e o estudo entra nos espaços que sobram de verdade, não nos que você imagina que existem.
+O que ela NÃO tem é o mais importante: sem chat, sem notas, sem ranking. Só o calendário. Suas notas continuam suas, quem criou modera, e sair leva você embora inteiro.
+
+Uma agenda compartilhada com 3 pessoas é enfeite. Com a turma inteira, ninguém mais é pego de surpresa por prova.
+
+As primeiras turmas abrem onde tiver mais gente esperando.
+
+Comenta a sua ESCOLA que a gente te manda o convite dela no direct.
 
 Faltam 61 dias para o ENEM e 60 para o SAT de 7 de novembro.`,
-        cta: 'comenta <b>JOGO</b> que eu te mando o link no direct',
-        tags: '#championsleague #rotinadeestudos #enem2026 #vidadeestudante',
-        nota: 'Champions, Vini, Raphinha e Estêvão por NOME (uso nominativo), sem escudo, sem foto de jogo (direito de arena). Rodada 1 em 8-10/9, UEFA, checado 29/8. A triagem do Hippo sai do mês.' } },
-
-        { d: '2026-09-09', contexto: 'US Open em andamento · o descanso como estratégia',
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
+        tags: '#voltaàsaulas #rotinadeestudos #organizacao #enem2026',
+        nota: 'O POST DA CAMPANHA. Substituiu o da Champions (trending demovido, GAMEPLAN mudança 4). A feature existe na school-build (db0852a) e o Eduardo precisa fazer o deploy (rules antes do Vercel) ATÉ ESTE DIA, senão o drop anuncia o que ninguém abre. DM: responder com o link ?escola= da pessoa.' },
+      stories: [
+        { dir: 'campanha-stories', n: 3, o: 'Reprise do teaser 3 de manhã', faz: 'Countdown sticker para 17h.' },
+        { dir: 'drop01', n: 1, o: 'Capa do drop às 17h', faz: 'Story apontando para o post. Link com ?escola= geral.' } ] },
+    { d: '2026-09-09', contexto: 'US Open em andamento · o descanso como estratégia',
       post: { dir: 'por-tras', n: 3, tipo: 'post único · série Por trás do treino',
         titulo: 'Parar na véspera não é preguiça. É estratégia',
         legenda: `Na véspera da prova você abre matéria nova às onze da noite, porque parar parece preguiça. E aí chega na prova com sono e com um assunto que você viu uma vez só.
@@ -264,10 +278,10 @@ Semana de prova é isso: menos matéria nova, mais revisão do que você já viu
 No PeakScore, quando a prova se aproxima, o plano enxuga o volume sozinho e prioriza revisão. Você não precisa ter a disciplina de parar: o cronograma já reduz por você.
 
 Faltam 60 dias para o ENEM e 59 para o SAT de 7 de novembro.`,
-        cta: 'comenta <b>DESCANSO</b> que eu te mando o link no direct',
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
         tags: '#usopen #rotinadeestudos #enem2026 #comoestudar',
-        nota: 'Substituiu "Cinco apps, uma planilha", que repetia o ângulo do carrossel de 1/9. Sinner por NOME; foto de banco sem rosto e sem logo. Fontes: ESPN e usopen.org (retirada, 21/8); Bosquet 2007 e revisão PLOS One 2023 (taper). Checado 29/8.' },
-      tarefas: ['Bastidor de quarta.'] },
+        nota: 'Série Por trás do treino ep. 3. CTA migrado para o funil único da campanha (GAMEPLAN mudança 6). Fontes: ESPN/usopen.org (retirada), Bosquet 2007 + PLOS One 2023 (taper).' },
+      stories: [{ dir: 'campanha-stories', n: 4, o: 'Como criar a sua turma (passo a passo)', faz: 'Sequência de 3 telas do app mostrando criar turma, copiar link, mandar no grupo. Capturar do app na hora.' }] },
 
     { d: '2026-09-10', contexto: 'Dia Mundial de Prevenção do Suicídio · Setembro Amarelo',
       post: { dir: 'setembro-unicos', n: 2, tipo: 'post único · documental',
@@ -297,7 +311,8 @@ Faltam 58 dias para o ENEM e 57 para o SAT de 7 de novembro.`,
         cta: 'comenta <b>REDAÇÃO</b> que eu te mando o link no direct',
         tags: '#redacaoenem #enem2026 #vestibular #rotinadeestudos',
         nota: 'Pega a onda das listas de temas, que é o assunto do nicho agora. NÃO prevê tema: o post é sobre método. Os cinco temas vêm do noticiário de agosto de 2026, não de previsão nossa.' },
-      stories: [{ dir: 'setembro-stories', n: 6, o: 'Hippo · 58 e 57 dias', faz: 'Ritual da sexta.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 4, o: 'PLACAR DAS ESCOLAS', faz: 'Preencher os números reais do /admin por sticker de texto na hora. Nunca inventar número.' },{ dir: 'setembro-stories', n: 6, o: 'Hippo · 58 e 57 dias', faz: 'Ritual da sexta.' }] },
 
     { d: '2026-09-12', contexto: 'Hoje é dia de SAT (12/9)',
       post: { reel: true, dir: 'setembro-reels-capas', n: 2, gancho: 2, clip: 'semana-montada',
@@ -324,24 +339,24 @@ Faltam 56 dias para o ENEM e 55 para o SAT.`,
         cta: 'salva pra ler no próximo domingo',
         tags: '#rotinadeestudos #vidadeestudante #enem2026 #organizacao',
         nota: 'Máximo um por mês: é o post que dá pausa no feed. art/quarto-anoitecer.jpg, Pexels 14526240.' },
-      stories: [{ dir: 'setembro-stories', n: 7, o: 'Caixinha', faz: 'As matérias que chegarem viram os blocos do carrossel de 20/9.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 5, o: 'Affirmations de véspera', faz: 'Rito de domingo.' },{ dir: 'setembro-stories', n: 7, o: 'Caixinha', faz: 'As matérias que chegarem viram os blocos do carrossel de 20/9.' }] },
 
-    { d: '2026-09-14',
-      post: { dir: 'setembro-unicos', n: 5, tipo: 'post único · campo escuro',
-        titulo: 'Você aguenta acompanhar todo dia. Só não acha que aguenta estudar',
-        legenda: `Você vai acompanhar um programa que passa TODOS os dias, por três meses, sem falhar um. E ainda acha que não tem constância.
+    { d: '2026-09-14', contexto: 'Estreia do rito de segunda: o bingo',
+      post: { dir: 'bingo', n: 1, tipo: 'post único · bingo 4x4',
+        titulo: 'Bingo da semana de provas',
+        legenda: `Semana de prova tem roteiro, e todo mundo aqui já decorou.
 
-Hoje às 22h30 estreia A Fazenda 18. E reality é assim: todo dia tem.
+Pinta as casas que você já viveu, reposta no story, e marca a cartela da sua turma. Quem fizer bingo com a linha do "study guide chegou domingo às 22h" ganha o direito de reclamar no grupo.
 
-Rotina de estudo funciona igual. Não é o dia épico que decide, é a sequência. A regra da casa: todo dia tem programa, todo dia tem revisão.
+E se a sua turma quer parar de viver a casa 7 (pânico às 23h), o Drop 01 existe exatamente para isso: um link e o calendário de provas de vocês fica montado para todo mundo.
 
-É por isso que o PeakScore abre no plano de HOJE: um dia decidido por vez, todo dia. Reality não pula um dia, rotina também não.
+Comenta a sua ESCOLA que a gente manda o convite.
 
-Faltam 55 dias para o ENEM e 54 para o SAT.`,
-        cta: 'comenta <b>ROTINA</b> que eu te mando o link no direct',
-        tags: '#afazenda #rotinadeestudos #enem2026 #vidadeestudante',
-        nota: 'A Fazenda por NOME (uso nominativo), sem logo nem imagem da Record. Estreia 14/9 22h30 confirmada em duas fontes, 29/8. O Reel de repetição espaçada desliza para 21/9.' } },
-
+Faltam 55 dias para o ENEM e 54 para o SAT de 7 de novembro.`,
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
+        tags: '#semanadeprovas #bingo #rotinadeestudos #vidadeestudante',
+        nota: 'Substituiu A Fazenda (trending demovido). Formato documentado que faz aluno marcar colega sem a arte pedir. Postar o template em branco nos destaques.' } },
     { d: '2026-09-15',
       post: { dir: 'setembro-unicos', n: 4, tipo: 'post único · número',
         titulo: '54 dias, e o fim de semana duplo',
@@ -357,21 +372,20 @@ O segundo dia do ENEM é 15 de novembro.`,
         nota: 'Números do edital do INEP e do College Board, nunca de uso da plataforma. Este é o post mais útil do mês para quem faz os dois.' },
       stories: [{ dir: 'setembro-stories', n: 8, o: 'Enquete · matéria atrasada', faz: 'Alimenta o post de hoje.' }] },
 
-    { d: '2026-09-16',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 6, gancho: 6,
-        tipo: 'Reel bastidor · 12s',
-        titulo: 'Um aluno pediu ontem',
-        legenda: `Um aluno mandou isso no direct ontem. Está no ar hoje.
+    { d: '2026-09-16', contexto: 'O rito de quarta: hiperlocal',
+      post: { dir: 'americana', cards: 7, tipo: 'carrossel · 7 cards',
+        titulo: 'Coisas que só quem estuda em escola americana em SP entende',
+        legenda: `Você começa a frase em português e termina in English sem perceber. Todo dezembro explica pra família o que é GPA. E faz vestibular E SAT no mesmo ano, às vezes no mesmo mês.
 
-É essa a vantagem de um app feito por dois irmãos que ainda respondem os comentários eles mesmos.
+Se você leu tudo balançando a cabeça, a gente estuda na mesma São Paulo. Este app nasceu dentro de uma escola dessas, feito por quem acorda 5h40 porque o bus atravessa a cidade inteira.
 
-Faltam 53 dias para o ENEM e 52 para o SAT.`,
-        cta: 'manda a sua no direct',
-        tags: '#buildinpublic #rotinadeestudos #estudos',
-        nota: 'O changelog que funciona: vira história, não anúncio de recurso. Precisa de um pedido real de aluno, com permissão de mostrar o print.' },
-      tarefas: ['Bastidor de quarta.'] },
+Qual faltou? Comenta junto com a sua ESCOLA: as primeiras turmas estão abrindo por escola agora.
 
-        { d: '2026-09-17',
+Faltam 53 dias para o ENEM e 52 para o SAT de 7 de novembro.`,
+        cta: 'comenta a sua <b>ESCOLA</b> e o item que faltou',
+        tags: '#escolaamericana #bilingue #sat #vidadeestudante',
+        nota: 'Substituiu "Um aluno pediu isso ontem". Chapel NUNCA na arte; "nasceu dentro de uma escola dessas" é o máximo permitido sem autorização da direção (linha vermelha 9).' } },
+    { d: '2026-09-17', contexto: 'Série do treino · prática deliberada',
       post: { dir: 'por-tras', n: 4, tipo: 'post único · série Por trás do treino',
         titulo: 'Três horas estudando não são três horas melhorando',
         legenda: `Você senta três horas, relê a matéria que já entende, e levanta com a sensação de ter estudado. Na prova cai justo aquilo que você pulou porque dava trabalho.
@@ -384,14 +398,12 @@ Exemplo vivo desta semana: Coco Gauff estava dando dupla falta demais. Contratou
 
 Não foi mais tempo em quadra. Foi mirar o erro.
 
-Três horas estudando não são três horas melhorando. Reler a matéria que você já sabe é conforto, não treino. O que muda o jogo é escolher o erro da semana e ir nele.
-
-No PeakScore o plano do dia pergunta o que você vai melhorar, não só quanto tempo vai sentar. É a diferença entre cumprir horário e ficar melhor.
+No PeakScore o plano do dia pergunta o que você vai melhorar, não só quanto tempo vai sentar.
 
 Faltam 52 dias para o ENEM e 51 para o SAT de 7 de novembro.`,
-        cta: 'comenta <b>ERRO</b> que eu te mando o link no direct',
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
         tags: '#comoestudar #rotinadeestudos #enem2026 #vestibular',
-        nota: 'Substituiu a colagem "Três alunos, três semanas", que segue BLOQUEADA até existirem fotos de alunos reais com autorização de nome, ano e responsável. Fontes: Ericsson 1993 e o texto do próprio Ericsson no Salon sobre a má leitura; Royal Society Open Science (replicação); Tennishead e NBC (números da Gauff). Checado 29/8.' } },
+        nota: 'Série Por trás do treino ep. 4. CTA no funil único. Fontes: Ericsson 1993 + Salon; Royal Society OS; Tennishead/NBC (Gauff).' } },
 
     { d: '2026-09-18', contexto: 'Último dia de inscrição do SAT de 3 de outubro',
       post: { dir: 'trending', n: 1, tipo: 'post único · cor cheia · serviço',
@@ -410,7 +422,8 @@ Faltam 51 dias para o ENEM e 50 para o SAT de novembro.`,
         cta: 'comenta <b>SAT</b> que eu te mando o calendário completo no direct',
         tags: '#sat #fc27 #copadavis #enem2026 #vestibular',
         nota: 'Os três fatos verificados em 29/8: College Board (deadline 18/9), EA oficial (early access 18/9), CNN/Lance (Davis 18-19/9, Farmasi Arena, Fonseca convocado). FC 27 e Copa Davis por NOME, sem logo, sem arte oficial.' },
-      stories: [{ dir: 'setembro-stories', n: 9, o: 'Hippo · 51 e 50 dias', faz: 'Ritual da sexta.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 4, o: 'PLACAR DAS ESCOLAS', faz: 'Preencher os números reais do /admin por sticker de texto na hora. Nunca inventar número.' },{ dir: 'setembro-stories', n: 9, o: 'Hippo · 51 e 50 dias', faz: 'Ritual da sexta.' }] },
 
     { d: '2026-09-19',
       post: { dir: 'sabado', n: 3, tipo: 'post único · sábado é o dia da piada',
@@ -440,22 +453,23 @@ Faltam 49 dias para o ENEM e 48 para o SAT. Sete semanas exatas.`,
         cta: 'comenta <b>TRES ERROS</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #vestibular #organizacao',
         nota: 'O carrossel mais salvável do mês. Vira os posts 5 e 6 do LinkedIn.' },
-      stories: [{ dir: 'setembro-stories', n: 10, o: 'Caixinha', faz: 'Repost do carrossel no mesmo dia.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 5, o: 'Affirmations de véspera', faz: 'Rito de domingo. JANELA A de launch night: se a semana de provas da Chapel é a de 21/9, o núcleo dispara nos grupos hoje.' },{ dir: 'setembro-stories', n: 10, o: 'Caixinha', faz: 'Repost do carrossel no mesmo dia.' }] },
 
-    { d: '2026-09-21',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 3, gancho: 3,
-        tipo: 'Reel micro-aula · 20s',
-        titulo: 'Repetição espaçada',
-        legenda: `Reler cinco vezes na véspera não é estudar cinco vezes.
+    { d: '2026-09-21', contexto: 'Rito de segunda · bingo rodada 2',
+      post: { dir: 'bingo', n: 2, tipo: 'post único · bingo 4x4',
+        titulo: 'Bingo rodada 2: de novo? De novo',
+        legenda: `Segunda rodada, cartela nova. Quatro casas trocadas para quem fez bingo na semana passada não ganhar de graça.
 
-A curva do esquecimento não liga para esforço, ela liga para intervalo. Três voltas espaçadas na mesma matéria valem mais que uma maratona de domingo.
+A casa nova mais cruel: "estudou a unidade errada". Se doeu, é porque aconteceu.
 
-Faltam 48 dias para o ENEM e 47 para o SAT.`,
-        cta: 'comenta <b>REVISÃO</b> que eu te mando o link no direct',
-        tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
-        nota: 'Veio de 14/9 (deu lugar à estreia de A Fazenda). A capa já traz o diagrama das duas curvas: dá para gravar só a voz por cima. Precisa de você.' },
+Comenta a sua ESCOLA e marca a cartela da turma.
+
+Faltam 48 dias para o ENEM e 47 para o SAT de 7 de novembro.`,
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
+        tags: '#semanadeprovas #bingo #rotinadeestudos #vidadeestudante',
+        nota: 'O Reel de repetição espaçada (precisava da voz do Eduardo) sai do caminho crítico e vira estoque.' },
       stories: [{ dir: 'setembro-stories', n: 11, o: 'Enquete · adversário do Hippo', faz: 'Escolhe o adversário do Reel de amanhã. Grave depois que ela fechar.' }] },
-
     { d: '2026-09-22',
       post: { reel: true, dir: 'setembro-reels-capas', n: 8, gancho: 8,
         tipo: 'Reel meme · 14s',
@@ -511,7 +525,8 @@ Faltam 44 dias para o ENEM e 43 para o SAT.`,
         cta: 'comenta <b>VINTE MINUTOS</b> que eu te mando o link no direct',
         tags: '#rotinadeestudos #comoestudar #enem2026 #estudos',
         nota: 'Caderno pautado em branco sobre madeira. A página vazia é a mensagem. Pexels 606541, Jessica Lewis.' },
-      stories: [{ dir: 'setembro-stories', n: 12, o: 'Hippo · 44 e 43 dias', faz: 'Ritual da sexta.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 4, o: 'PLACAR DAS ESCOLAS', faz: 'Preencher os números reais do /admin por sticker de texto na hora. Nunca inventar número.' },{ dir: 'setembro-stories', n: 12, o: 'Hippo · 44 e 43 dias', faz: 'Ritual da sexta.' }] },
 
     { d: '2026-09-26',
       post: { dir: 'sabado', n: 4, tipo: 'post único · sábado é o dia da piada',
@@ -543,21 +558,22 @@ Faltam 42 dias para o ENEM e 41 para o SAT. Este é o primeiro dos seis domingos
         cta: 'comenta <b>OUTUBRO</b> que eu te mando o plano das seis semanas no direct',
         tags: '#enem2026 #rotinadeestudos #cronograma #vestibular #organizacao',
         nota: 'Abre a contagem diária de outubro. NFL Rio (Ravens x Cowboys, Maracanã, 17h25) e prova do ITA (13h-18h) confirmados em 29/8; por NOME, sem logo de liga ou time.' },
-      stories: [{ dir: 'setembro-stories', n: 13, o: 'Caixinha', faz: 'As respostas viram o plano de outubro.' }] },
+      stories: [
+        { dir: 'campanha-stories', n: 5, o: 'Affirmations de véspera', faz: 'Rito de domingo. JANELA B de launch night.' },{ dir: 'setembro-stories', n: 13, o: 'Caixinha', faz: 'As respostas viram o plano de outubro.' }] },
 
-    { d: '2026-09-28',
-      post: { reel: true, dir: 'setembro-reels-capas', n: 7, gancho: 7, clip: 'desmos',
-        tipo: 'Reel micro-aula · 14s',
-        titulo: 'O Desmos em 4 segundos',
-        legenda: `A calculadora gráfica já vem na prova do SAT. A questão é saber o que digitar, e quase ninguém treina isso.
+    { d: '2026-09-28', contexto: 'Rito de segunda · bingo rodada final',
+      post: { dir: 'bingo', n: 3, tipo: 'post único · bingo 4x4',
+        titulo: 'Bingo rodada final: sobreviva',
+        legenda: `Última cartela do mês, e setembro não facilitou.
 
-Tem um curso de 50 lições de Desmos dentro do PeakScore, com duelo contra o Hippo.
+"Grupo mudou de nome pra SOS PROVA" entrou por demanda popular. A casa do meio continua LIVRE porque respeito é bom.
 
-Faltam 41 dias para o ENEM e 40 para o SAT.`,
-        cta: 'comenta <b>DESMOS</b> que eu te mando o link no direct',
-        tags: '#sat #matematica #estudarfora #vestibular',
-        nota: 'Veio de 21/9. Footage do curso já capturado: desmos.mp4. As 50 lições são o número real do site. O Reel "Três matérias em uma hora" abre outubro.' } },
+Outubro vem com contagem diária. Comenta a sua ESCOLA e chega junto.
 
+Faltam 41 dias para o ENEM e 40 para o SAT de 7 de novembro.`,
+        cta: 'comenta a sua <b>ESCOLA</b> que eu te mando o convite no direct',
+        tags: '#semanadeprovas #bingo #rotinadeestudos #vidadeestudante',
+        nota: 'O Reel do Desmos vira estoque de outubro (precisa da voz).' } },
     { d: '2026-09-29',
       post: { dir: 'esporte', n: 2, tipo: 'post único · campo escuro · marco',
         titulo: 'A largada acontece durante a sua prova',
@@ -590,7 +606,9 @@ Monta no PeakScore o caminho de trás pra frente: da prova até hoje, semana a s
 Outubro é a reta final. Faltam 39 dias para o primeiro dia do ENEM e 38 para o SAT.`,
         cta: 'marca quem vai sumir no dia 19',
         tags: '#gta6 #enem2026 #rotinadeestudos #vestibular',
-        nota: 'GTA VI e Jogos Vorazes por NOME, nunca com arte oficial, logotipo ou captura. GTA VI 19/11 (Rockstar, reafirmado 7/8); Amanhecer na Colheita 19/11 no Brasil (Rolling Stone + Ingresso, checado 29/8). Campo escuro é reservado a marco com número externo e verificável.' } },
+        nota: 'GTA VI e Jogos Vorazes por NOME, nunca com arte oficial, logotipo ou captura. GTA VI 19/11 (Rockstar, reafirmado 7/8); Amanhecer na Colheita 19/11 no Brasil (Rolling Stone + Ingresso, checado 29/8). Campo escuro é reservado a marco com número externo e verificável.' },
+      stories: [
+        { dir: 'campanha-stories', n: 4, o: 'PLACAR DAS ESCOLAS', faz: 'Preencher os números reais do /admin por sticker de texto na hora. Nunca inventar número.' } ] },
   ];
 
   // A contagem e calculada, nunca digitada.

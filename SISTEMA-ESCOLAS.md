@@ -42,8 +42,9 @@ aberta e abandonada não reabre.
 
 **Onda 1 · o vestiário da SPHSL (meses 1-3):**
 Chapel → fila decide a próxima entre PACA / St. Paul's / Graded / EAC.
-Por quê: double round-robin = encontros físicos repetidos o ano todo.
-Datas-ponte: **Little 8 na PACA (29/10-4/11)** · **GMUN na Graded (fev/27)**.
+Por quê: double round-robin = os alunos se encontram o ano todo.
+SEM eventos-ponte no plano (ordem do Eduardo 31/8: "esquece little 8 e
+gmun"): o contágio é do placar, do cartão que vaza e do boca a boca.
 PACA é a mais dominável (370 alunos); Graded é o troféu (23k IG, The Talon).
 
 **Onda 2 · vizinhos + IB novo (meses 3-6):**
@@ -88,9 +89,9 @@ Pueri Domus é ponte. Notre Dame (Campinas, confirmado) entra com a EAC.
    de OUTRAS escolas veem o app. *Gatilho: ≥20 shares orgânicos/semana +
    primeiros cadastros com e-mail de outra escola.*
 9. **Fila da escola seguinte.** "Sua escola abre com 30 na fila + o
-   calendário de provas de vocês." Capturar demanda nos eventos-ponte
-   (Little 8, GMUN, SPHSL). *Gatilho: escola atual ≥50%, D30 ≥ 25%,
-   próxima com 30+ na fila e 1 embaixador identificado.*
+   calendário de provas de vocês." A demanda vem do placar e do cartão
+   que vaza. *Gatilho: escola atual ≥50%, D30 ≥ 25%, próxima com 30+
+   na fila e 1 embaixador identificado.*
 10. **Industrializar.** Este checklist vira kit; dados pré-carregados
     antes de cada launch night; retro após cada escola.
 
