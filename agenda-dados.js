@@ -91,12 +91,12 @@ Faltam ${dias(new Date(2026,7,29), ENEM1)} dias para o primeiro dia do ENEM. E o
 
     { d: '2026-08-30',
       post: { dir: 'esporte', n: 1, tipo: 'post único · cor cheia',
-        titulo: 'Ninguém levanta a taça em agosto',
-        legenda: `Ninguém levanta a taça em agosto.
+        titulo: 'A véspera salva uma prova. Não salva um semestre',
+        legenda: `A véspera salva uma prova. Ela não salva um semestre.
 
 Nenhum time ganha o campeonato numa rodada. Ganha somando ponto em outubro, em novembro, e nas quartas-feiras chatas do meio, contra time que ninguém lembra depois.
 
-É a mesma conta com estudo, e é por isso que a semana comum importa mais que o domingo heroico. A véspera salva uma prova. Ela não salva um semestre.
+É a mesma conta com estudo, e é por isso que a semana comum importa mais que o domingo heroico.
 
 Faltam 70 dias para o ENEM e 69 para o SAT de 7 de novembro.`,
         cta: 'marca quem só estuda na véspera',
