@@ -96,12 +96,22 @@ Pueri Domus é ponte. Notre Dame (Campinas, confirmado) entra com a EAC.
 
 ## 4. AS PEÇAS DE PRODUTO (aprovadas pelo Eduardo em 31/8)
 
-Todas na school-build, deploy só com aprovação explícita dele:
-1. Campo escola + DAU por escola no /admin (instrumentação).
-2. Convite de turma por link (o loop Saturn; spec em SPEC-TURMA.md).
-3. Cartão compartilhável 9:16 (countdown de prova; utm_medium=share_card).
-4. Fila por escola (waitlist; alimenta a decisão da escola 2, que o
-   Eduardo definiu: A FILA DECIDE).
+Todas na school-build, deploy só com aprovação explícita dele.
+STATUS 31/8: as quatro CONSTRUÍDAS e commitadas (5430d2c + db0852a),
+18 suites de teste verdes, smoke de runtime sem erro de console.
+1. Campo escola + DAU por escola no /admin. FEITO.
+2. Convite de turma por link (spec em SPEC-TURMA.md). FEITO (v1: só
+   calendário de provas; sem chat, sem notas, sem descoberta).
+3. Cartão compartilhável 9:16 com utm share_card. FEITO.
+4. Fila por escola via ?escola= no link de cadastro. FEITO (v1 sem
+   coleta de dado novo: a fila é o próprio cadastro, medida no /admin).
++ /seguranca trilingue construída (o one-pager dependia dela).
+
+DUAS PORTAS QUE SÓ O EDUARDO ABRE:
+a) Os deltas de privacy e terms (compartilhamento aluno-a-aluno) estão
+   nos arquivos MARCADOS COMO RASCUNHO em 3 línguas: aprovar o texto.
+b) Deploy: firebase deploy das rules ANTES do deploy do Vercel (ordem
+   obrigatória da spec), e o teste de emulador pede Java na máquina.
 
 ## 5. CONTEÚDO (o que muda na fábrica)
 
