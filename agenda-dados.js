@@ -109,23 +109,15 @@ Faltam 70 dias para o ENEM e 69 para o SAT de 7 de novembro.`,
         { dir: 'domingo-servico', n: 4, o: 'GTA VI · 26min', faz: 'Noite. Countdown sticker opcional para 19/11.' } ] },
 
     // ── SÉRIE POR TRÁS DO TREINO · estreia ──────────────────────────
-    { d: '2026-08-31', contexto: 'Alcaraz estreia no US Open depois de 4 meses parado',
-      post: { dir: 'por-tras', n: 1, tipo: 'post único · série Por trás do treino',
-        titulo: 'Você não volta no ritmo de antes. Ninguém volta',
-        legenda: `Você parou de estudar por duas semanas. Agora abre o caderno na segunda decidido a voltar no ritmo de antes, com três matérias e quatro horas. Na terça você já não abriu.
-
-Não é falta de força de vontade. É que voltar direto no nível de antes não funciona para ninguém, nem para quem faz isso profissionalmente.
-
-Alcaraz ficou quatro meses parado com uma lesão no punho. Hoje ele estreia no US Open defendendo o título. E a volta dele não começou no talento: ele treinou primeiro com o número 123 do mundo, de propósito, para subir a exigência aos poucos. Depois jogou nas duplas, onde a pressão é menor. Só então entrou na chave principal.
-
-Se o número 2 do mundo volta pelo degrau de baixo, você também pode.
-
-No PeakScore o plano recomeça no seu nível de hoje: blocos curtos, revisão do que você já sabia, e só depois matéria nova. O degrau de baixo primeiro.
-
-Faltam 69 dias para o ENEM e 68 para o SAT de 7 de novembro.`,
-        cta: 'comenta <b>VOLTA</b> que eu te mando o link no direct',
-        tags: '#usopen #rotinadeestudos #enem2026 #vestibular',
-        nota: 'Estreia da série. Alcaraz por NOME (fato público esportivo); a foto é de banco, sem rosto, sem logo, sem frame de transmissão. Fontes: CNN Brasil, Puntodebreak, Metrópoles, Brasil Tênis, checadas 29/8. A chave principal do US Open começa 30/8 e ele estreia 31/8.' } },
+    { d: '2026-08-31', contexto: 'A CAMPANHA COMEÇA HOJE (ordem do Eduardo): Ato I abre nos stories',
+      post: { dir: 'campanha-stories', n: 1, tipo: 'dia de story · sem post no feed',
+        titulo: 'Sem post no feed hoje: a campanha abre nos stories',
+        legenda: `(Nada para copiar: hoje não tem post de feed. O teaser 01 sobe nos stories com a enquete "de que escola você é?". O post do Alcaraz virou estoque da série.)`,
+        cta: 'enquete nos stories: de que escola você é?',
+        tags: '',
+        nota: 'Decisão do Eduardo 31/8: "a campanha começa hoje, esquece o post que era pra ser pra hoje". O ep. 1 da série (Alcaraz) vira estoque. Amanhã (1/9) segue o plano normal: carrossel dos cinco lugares + teaser já agendado.' },
+      stories: [
+        { dir: 'campanha-stories', n: 1, o: 'TEASER 01 · em construção', faz: 'Primeiro story de hoje. Enquete: de que escola você é? As respostas alimentam o placar.' } ] },
 
     { d: '2026-09-01',
       post: { dir: 'setembro-01-carrossel', cards: 7, tipo: 'carrossel · 7 cards',
