@@ -234,16 +234,20 @@ A gente volta amanhã com a semana.`,
       stories: [
         { dir: 'campanha-stories', n: 3, o: 'Teaser 03 · véspera', faz: 'À noite, único story do feriado. Countdown sticker para amanhã 17h.' } ] },
     { d: '2026-09-08', contexto: 'DROP 01 · A TURMA · o dia mais importante do mês',
-      post: { dir: 'drop01', cards: 6, tipo: 'carrossel DROP · 6 cards',
+      post: { dir: 'drop01', cards: 7, tipo: 'carrossel DROP · 7 cards',
         titulo: 'DROP 01 · A Turma',
-        labels: ['capa','o que é','como funciona','o que não tem','a regra','comenta a escola'],
+        labels: ['capa','o que é','como funciona','o placar','a estante','o que não tem','comenta a escola'],
         legenda: `A gente construiu uma coisa nova, e ela não funciona sozinha. De propósito.
 
 Chama Turma. Alguém da sua sala cria, manda um link no grupo, e quem entra já vê o calendário de provas de vocês, montado. Qualquer um adiciona a prova que o professor marcou, e o cronograma de cada um se remonta em volta dela.
 
-O que ela NÃO tem é o mais importante: sem chat, sem notas, sem ranking. Só o calendário. Suas notas continuam suas, quem criou modera, e sair leva você embora inteiro.
+A semana tem um placar: cada dia estudado acende uma bolinha, e quem aparece mais lidera. É placar de constância, não de nota. Nota ninguém vê, e sair do placar é um toque.
 
-Uma agenda compartilhada com 3 pessoas é enfeite. Com a turma inteira, ninguém mais é pego de surpresa por prova.
+E tem uma estante: o resumo bom, a lista, a foto do quadro param de morrer no grupo. Quem mandou pode tirar, quem criou a turma modera.
+
+Sem chat. Suas notas continuam suas, e sair leva você embora inteiro.
+
+Uma turma com 3 pessoas é enfeite. Com a sala inteira, ninguém mais é pego de surpresa por prova.
 
 As primeiras turmas abrem onde tiver mais gente esperando.
 
